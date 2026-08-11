@@ -5,7 +5,7 @@
   "description": "Extract data while browsing LinkedIn Jobs",
   "permissions": ["storage", "downloads"],
   "action": {
-    "default_popup": "popup/popup.html",
+    "default_popup": "popup.html",
     "default_title": "LinkedIn Job Scanner"
   },
   "content_scripts": [
