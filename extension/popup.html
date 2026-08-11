@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <style>
+    body { font-family: sans-serif; width: 340px; padding: 8px; }
+    h2 { font-size: 14px; margin: 0 0 8px; }
+    #count { color: #555; font-size: 12px; margin-bottom: 8px; }
+    .job { border-bottom: 1px solid #eee; padding: 6px 0; }
+    .job b { display: block; font-size: 13px; }
+    .job span { display: block; font-size: 11px; color: #666; }
+    button { margin-top: 8px; padding: 4px 8px; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <h2>LinkedIn Job Scanner</h2>
+  <div id="count">Loading...</div>
+  <div id="list"></div>
+  <button id="export">Export JSON</button>
+  <button id="clear">Clear All</button>
+  <script src="popup.js"></script>
+</body>
+</html>
