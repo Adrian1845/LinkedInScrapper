@@ -4,7 +4,7 @@ import re
 import pandas as pd
 from dotenv import load_dotenv
 from pydantic import BaseModel, Field
-from typing import List
+from typing import List, Tuple
 from google import genai
 from google.genai import types
 
@@ -16,12 +16,12 @@ if not os.getenv("GEMINI_API_KEY"):
 HISTORY_FILE = "data/processed_jobs_history.json"
 
 # ---------------------------------------------------------------------------
-# HELPER TO NORMALIZE AND EXTRACT UNIQUE JOB IDENTIFIER
+# HELPERS TO NORMALIZE AND EXTRACT UNIQUE JOB IDENTIFIERS
 # ---------------------------------------------------------------------------
-def get_clean_identifier(job_dict: dict) -> str | None:
+def get_clean_job_id(job_dict: dict) -> str | None:
     """
-    Extracts a unique, normalized identifier.
-    Returns None if the job posting has NO jobId nor a valid URL.
+    Extracts a unique numeric Job ID or clean URL-based ID.
+    Returns None if no ID or valid URL is available.
     """
     job_id = job_dict.get("jobId")
     if job_id:
@@ -34,51 +34,89 @@ def get_clean_identifier(job_dict: dict) -> str | None:
         if match:
             return match.group(1)
         
-        # 2. If it's another valid URL, strip query strings (?refId=...) and trailing slashes
+        # 2. Strip query parameters and trailing slashes for other URLs
         clean_url = raw_url.split("?")[0].rstrip("/").lower().strip()
         if clean_url:
             return clean_url
 
-    # If there is no valid ID or URL, return None to avoid saving it in the history
     return None
 
+
+def get_composite_key(job_dict: dict) -> str | None:
+    """
+    Generates a normalized composite key: 'title|company|location'.
+    Returns None if title or company is missing.
+    """
+    title = job_dict.get("title", "")
+    company = job_dict.get("company", "")
+    location = job_dict.get("location", "")
+
+    if not title or not company:
+        return None
+
+    def _normalize(text: str) -> str:
+        text = text.lower().strip()
+        # Clean multiple spaces/tabs/newlines into a single space
+        return re.sub(r"\s+", " ", text)
+
+    return f"{_normalize(title)}|{_normalize(company)}|{_normalize(location)}"
+
+
+def get_job_identifiers(job_dict: dict) -> Tuple[str | None, str | None]:
+    """
+    Returns a tuple of (job_id, composite_key).
+    """
+    return get_clean_job_id(job_dict), get_composite_key(job_dict)
+
+
 # ---------------------------------------------------------------------------
-# FUNCTIONS TO MANAGE HISTORY
+# FUNCTIONS TO MANAGE HISTORY (Retrocompatible structure)
 # ---------------------------------------------------------------------------
-def load_history() -> set:
-    """Loads the set of previously processed URLs/IDs."""
+def load_history() -> Tuple[set, set]:
+    """
+    Loads sets of previously processed job IDs and composite keys.
+    Supports both legacy list format and new dictionary structure.
+    Returns: (ids_set, composite_keys_set)
+    """
+    ids_set = set()
+    keys_set = set()
+
     if os.path.exists(HISTORY_FILE):
         try:
             with open(HISTORY_FILE, "r", encoding="utf-8") as f:
                 data = json.load(f)
-                return set(data)
+                
+                # Backward compatibility: legacy list of IDs
+                if isinstance(data, list):
+                    ids_set = set(data)
+                # New format: dict with separate sets for ids and composite fingerprints
+                elif isinstance(data, dict):
+                    ids_set = set(data.get("job_ids", []))
+                    keys_set = set(data.get("composite_keys", []))
         except Exception as e:
             print(f"Warning: Could not read history ({e}). A new one will be created.")
-    return set()
 
-def save_history(processed_set: set):
-    """Saves the updated history to disk."""
+    return ids_set, keys_set
+
+
+def save_history(ids_set: set, keys_set: set):
+    """Saves updated sets of IDs and composite keys to disk."""
     os.makedirs(os.path.dirname(HISTORY_FILE), exist_ok=True)
+    payload = {
+        "job_ids": sorted(list(ids_set)),
+        "composite_keys": sorted(list(keys_set))
+    }
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
-        json.dump(list(processed_set), f, indent=2, ensure_ascii=False)
+        json.dump(payload, f, indent=2, ensure_ascii=False)
+
 
 # ---------------------------------------------------------------------------
 # 1. PROFILE & PREFERENCES
 # ---------------------------------------------------------------------------
 CANDIDATE_PROFILE = """
-- Title: 
-- Core Stack: 
-- Education: 
-- Languages: 
-- Recent Experience: 
 """
 
 CANDIDATE_PREFERENCES = """
-- Work Modality: 
-- Desired Tech 
-- Desired Salary: 
-- Role Seniority: 
-- Red Flags: 
 """
 
 # ---------------------------------------------------------------------------
@@ -100,8 +138,10 @@ class JobEvaluation(BaseModel):
     summary_reasoning: str = Field(description="A 2-sentence summary of why this score was assigned")
     url: str = Field(description="URL of the job posting")
 
+
 class BatchEvaluationResponse(BaseModel):
     evaluations: List[JobEvaluation]
+
 
 # ---------------------------------------------------------------------------
 # 3. LLM EVALUATION FUNCTION
@@ -110,16 +150,17 @@ def evaluate_jobs(jobs_json_path: str, output_csv_path: str = "data/outputs/job_
     with open(jobs_json_path, "r", encoding="utf-8") as f:
         jobs_data = json.load(f)
 
-    history = load_history()
+    history_ids, history_keys = load_history()
     
-    # 2. Filter jobs to keep ONLY those NOT present in the history
+    # Filter jobs: skip if MATCHED by Job ID OR by Composite Key (title | company | location)
     new_jobs_data = {}
     for key, job in jobs_data.items():
-        job_identifier = get_clean_identifier(job)
+        job_id, composite_key = get_job_identifiers(job)
         
-        # If it DOES NOT have an identifier (None), ALWAYS treat it as a new job.
-        # If it DOES have an identifier, only pass if it is NOT in history.
-        if job_identifier is None or job_identifier not in history:
+        is_duplicate_by_id = job_id is not None and job_id in history_ids
+        is_duplicate_by_key = composite_key is not None and composite_key in history_keys
+
+        if not is_duplicate_by_id and not is_duplicate_by_key:
             new_jobs_data[key] = job
 
     if not new_jobs_data:
@@ -127,7 +168,7 @@ def evaluate_jobs(jobs_json_path: str, output_csv_path: str = "data/outputs/job_
         return
 
     print(f"Found {len(jobs_data)} total jobs.")
-    print(f"• {len(jobs_data) - len(new_jobs_data)} were already in history (skipped).")
+    print(f"• {len(jobs_data) - len(new_jobs_data)} were already in history (skipped by ID or Title+Company+Location).")
     print(f"• {len(new_jobs_data)} NEW jobs to process with Gemini.")
 
     client = genai.Client()
@@ -168,7 +209,8 @@ Your task is to analyze a list of scraped job postings and evaluate each job aga
     evals = [e.model_dump() for e in result.evaluations]
 
     merged_records = []
-    processed_identifiers = set()
+    new_processed_ids = set()
+    new_processed_keys = set()
 
     for ev in evals:
         key = ev["temp_id"]
@@ -179,10 +221,12 @@ Your task is to analyze a list of scraped job postings and evaluate each job aga
             job_id = raw_job.get("jobId")
             resolved_url = f"https://www.linkedin.com/jobs/view/{job_id}/" if job_id else "N/A"
         
-        # Only add to the set if the job HAS a valid ID/URL
-        identifier = get_clean_identifier(raw_job)
-        if identifier is not None:
-            processed_identifiers.add(identifier)
+        # Extract identifiers for updating history
+        job_id, composite_key = get_job_identifiers(raw_job)
+        if job_id:
+            new_processed_ids.add(job_id)
+        if composite_key:
+            new_processed_keys.add(composite_key)
 
         merged_records.append({
             "Match Score (%)": ev["match_score"],
@@ -204,15 +248,13 @@ Your task is to analyze a list of scraped job postings and evaluate each job aga
             "Scanned At": raw_job.get("scannedAt", "N/A"),
         })
 
-    # 5. Create DataFrame
+    # Create DataFrame and sort by Match Score
     df = pd.DataFrame(merged_records)
     df = df.sort_values(by="Match Score (%)", ascending=False)
 
-    # Check if the output CSV file already exists
+    # Check if CSV output exists to handle header mode
     file_exists = os.path.exists(output_csv_path)
 
-    # If it DOES NOT exist, create the file AND write headers (header=True)
-    # If it DOES exist, append (mode='a') AND DO NOT write headers (header=False)
     df.to_csv(
         output_csv_path,
         mode="a" if file_exists else "w",
@@ -221,12 +263,14 @@ Your task is to analyze a list of scraped job postings and evaluate each job aga
         encoding="utf-8-sig"
     )
 
-    # 6. Update history ONLY with valid identifiers
-    history.update(processed_identifiers)
-    save_history(history)
+    # Update history sets and persist to disk
+    history_ids.update(new_processed_ids)
+    history_keys.update(new_processed_keys)
+    save_history(history_ids, history_keys)
 
     print(f"Done! {len(df)} new jobs analyzed and added to '{output_csv_path}'.")
-    print(f"History updated in '{HISTORY_FILE}'. Total accumulated in history: {len(history)} jobs.")
+    print(f"History updated in '{HISTORY_FILE}'. Accumulated: {len(history_ids)} IDs, {len(history_keys)} composite keys.")
+
 
 if __name__ == "__main__":
     evaluate_jobs("jobs/linkedin_jobs.json")

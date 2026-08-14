@@ -10,7 +10,7 @@ The project scrapes job data from LinkedIn via a Chrome/Firefox extension, filte
 
 * **Manifest V3 Browser Extension:** Injects content scripts directly into LinkedIn to capture job cards and full job details in real-time, backed by an async storage queue (`chrome.storage.local` / `browser.storage.local`) to avoid write race conditions during fast scrolling.
 * **Extension Popup Interface:** Lightweight Manifest V3 popup allowing users to check live metrics (total scraped jobs stored in memory), export the current database directly to `linkedin_jobs.json`, or clear storage with a single click.
-* **Smart Duplicate Filtering (Token Optimization):** Maintains a local registry (`processed_jobs_history.json`) based on job IDs (`jobId`) or normalized URLs. Previously evaluated listings are automatically skipped on subsequent runs.
+* **Smart Duplicate Filtering (Token Optimization):** Maintains a local registry (`processed_jobs_history.json`) based on job IDs (`jobId`) or composite key (`title`, `company`, `location`). Previously evaluated listings are automatically skipped on subsequent runs.
 * **Graceful Handling of ID-less Listings:** Postings missing a numeric ID or valid URL are analyzed normally but excluded from the duplicate history to prevent false-positive blocks.
 * **Structured JSON Output:** Powered by the official Google GenAI SDK (`google-genai`) using Pydantic schemas (`BatchEvaluationResponse`) to guarantee deterministic responses with scores (0–100), pros, cons, work modality, and salary estimates.
 * **Cumulative CSV Export:** New evaluations are appended to `job_matches.csv` encoded in `UTF-8 with BOM` (`utf-8-sig`) for seamless display of accented characters and special symbols in Microsoft Excel.
