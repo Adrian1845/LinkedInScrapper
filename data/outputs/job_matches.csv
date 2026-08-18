@@ -475,3 +475,1010 @@
 38,REJECT,Java Software Engineer,KWAN,Consulting,Remote,"35,000€ - 45,000€",Estimated,65,Portugal,Yes,• Event-driven architectures with Kafka and Kubernetes,"• Strict location restriction: residents in Portugal only
 • Consulting agency staff augmentation model
 • Requires 5+ years experience","Role is strictly restricted to residents in Portugal and requires 5+ years experience in a consulting setup, violating multiple candidate constraints.",https://www.linkedin.com/jobs/view/4437696060/,1 month ago,2026-08-11T13:25:11.233Z
+25,REJECT,Android Product Engineer,idealista,Scaleup,Remote,"40,000€ - 50,000€",Estimated,75,"Madrid, Community of Madrid, Spain",Yes,"• 100% remote-friendly work modality in Spain
+• Reputable product company with strong engineering culture
+• Good alignment with requested product salary range (~40k-50k€)","• Major technology mismatch: Android/Kotlin development vs Backend Java/Spring Boot
+• Requires hands-on experience with native mobile app architecture","While this position offers a great remote working environment and competitive product company compensation, it is tailored for native Android (Kotlin) development. The candidate's background is strictly Java backend, Spring Boot, and AWS cloud microservices.",https://www.linkedin.com/jobs/view/4442661537/,3 weeks ago,2026-08-11T20:05:08.172Z
+0,REJECT,Chargé(e) de relation client / prospection (français natif/bilingue),idealista,Scaleup,,"20,000€ - 25,000€",Estimated,10,Madrid,No,• Product company atmosphere,"• Non-tech customer relation role
+• Complete stack and career domain mismatch
+• Detailed JD missing","This role is completely outside the software engineering domain, focusing on customer relations and sales. It does not align with the candidate's technical profile or career path.",N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Senior Accountant - Controller (FR),idealista,Scaleup,Hybrid,"35,000€ - 45,000€",Estimated,10,Madrid (Hybrid),No,• Established product company,"• Accounting and finance role
+• Hybrid presence required in Madrid
+• Detailed JD missing",This position is in corporate finance and accounting rather than engineering. It is irrelevant to the candidate's software profile.,N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Atención al cliente con Italiano para Fines de Semana y Festivos,idealista,Scaleup,,"15,000€ - 20,000€",Estimated,10,Madrid,No,• Product company context,"• Non-tech customer service role
+• Weekend/holiday shift schedule
+• Detailed JD missing",This is a part-time weekend customer support role unrelated to software development. It offers no technical relevance for a Java software engineer.,N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Gestor Hipotecario – Madrid,idealista,Scaleup,Hybrid,"24,000€ - 30,000€",Estimated,10,Madrid (Hybrid),No,• Product company context,"• Banking/mortgage management domain
+• Hybrid work in Madrid required
+• Detailed JD missing","This role involves mortgage management and operations, entirely unrelated to software engineering. It also requires hybrid presence in Madrid.",N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Creative Designer (français natif/bilingue),idealista,Scaleup,Hybrid,"28,000€ - 35,000€",Estimated,15,Madrid (Hybrid),No,• Creative role in product company,"• Design domain, non-engineering
+• Hybrid modality
+• Detailed JD missing",The role is for a creative designer and lacks any backend software development components. It is not suitable for a Java backend engineer.,N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Diseñador/a de Virtual Home Staging - Freelance,idealista,Scaleup,Remote,"20,000€ - 28,000€",Estimated,10,Madrid (Remote),No,• 100% Remote,"• 3D/virtual staging design role
+• Freelance status
+• Detailed JD missing","Although remote, this is a virtual home staging design role rather than software engineering. It does not fit the candidate's career track.",N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Fotógrafo/a Freelance - Huesca,idealista,Scaleup,Onsite,"15,000€ - 22,000€",Estimated,5,Madrid (On-site),No,• Freelance flexibility,"• Photography role
+• Onsite presence required in Huesca
+• Detailed JD missing","This is a freelance photography job, having zero overlap with cloud software development or Java. It is an immediate reject.",N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Fotógrafo/a Freelance - Mahón,idealista,Scaleup,Onsite,"15,000€ - 22,000€",Estimated,5,Madrid (On-site),No,• Freelance role,"• Onsite photography
+• Non-tech job
+• Detailed JD missing","This is an onsite photography position in Mahón, carrying no relevance to software development.",N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Chargé(e) de relation client/prospection (français natif/bilingue),idealista,Scaleup,,"20,000€ - 25,000€",Estimated,10,Madrid,No,• Product company culture,"• Sales/customer prospecting role
+• Duplicate posting
+• Detailed JD missing",This is a duplicate listing for a non-technical French customer relationship role. It does not align with a software engineering background.,N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Comercial online,idealista,Scaleup,Hybrid,"22,000€ - 28,000€",Estimated,10,Málaga (Hybrid),No,• Product company context,"• Sales/commercial focus
+• Hybrid modality in Málaga
+• Detailed JD missing",This role focuses on online sales and commercial accounts in Málaga. It has no overlap with software development.,N/A,2 weeks ago,2026-08-11T20:05:08.171Z
+0,REJECT,Fotógrafo/a Freelance - Figueres,idealista,Scaleup,Onsite,"15,000€ - 22,000€",Estimated,5,Madrid (On-site),No,• Freelance arrangement,"• Onsite field photography
+• Non-technical role
+• Detailed JD missing",This position is for local real estate photography in Figueres. It is completely irrelevant to Java engineering.,N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Atención al Cliente bilingüe italiano - part time,idealista,Scaleup,,"12,000€ - 16,000€",Estimated,10,Madrid,No,• Known scaleup brand,"• Part-time customer support
+• Non-engineering domain
+• Detailed JD missing",This is a part-time customer support position requiring Italian. It is not suitable for a backend software developer.,N/A,1 week ago,2026-08-11T20:05:08.172Z
+0,REJECT,Gestor Hipotecario - Málaga,idealista,Scaleup,Hybrid,"24,000€ - 30,000€",Estimated,10,Málaga (Hybrid),No,• Product company employment,"• Mortgage operations position
+• Hybrid work in Málaga
+• Detailed JD missing",This is a mortgage management position located in Málaga. It does not relate to cloud microservices or Java backend engineering.,N/A,1 week ago,2026-08-11T20:05:08.172Z
+0,REJECT,Gestor de Hipotecas - Barcelona,idealista,Scaleup,Hybrid,"24,000€ - 30,000€",Estimated,10,Barcelona (Hybrid),No,• Product company background,"• Mortgage advising role
+• Hybrid in Barcelona
+• Detailed JD missing",This is a non-technical mortgage management role based in Barcelona. It is incompatible with the candidate's software engineering background.,N/A,1 week ago,2026-08-11T20:05:08.172Z
+0,REJECT,Key Account Manager (italian market),idealista,Scaleup,Hybrid,"30,000€ - 40,000€",Estimated,15,Madrid (Hybrid),No,• International business focus,"• Sales and account management role
+• Hybrid in Madrid required
+• Detailed JD missing",This position covers sales and account management for the Italian market. It is not a software development role.,N/A,2 weeks ago,2026-08-11T20:05:08.172Z
+0,REJECT,Atención al cliente con Portugués para Fines de Semana y Festivos (Madrid),idealista,Scaleup,Onsite,"15,000€ - 20,000€",Estimated,10,Madrid (On-site),No,• Product company context,"• Onsite weekend customer service
+• Non-technical domain
+• Detailed JD missing",This is an onsite weekend customer service position in Madrid requiring Portuguese. It holds no relevance for a software engineer.,N/A,2 weeks ago,2026-08-11T20:05:08.172Z
+0,REJECT,Agente venta consultiva - AvaiBook,idealista,Scaleup,Hybrid,"22,000€ - 28,000€",Estimated,10,Madrid (Hybrid),No,• SaaS product branch (AvaiBook),"• Consultative sales role
+• Hybrid requirement in Madrid
+• Detailed JD missing",This is a consultative sales position for AvaiBook. It is a non-technical role outside software engineering.,N/A,2 weeks ago,2026-08-11T20:05:08.172Z
+0,REJECT,Qualification de marché (français natif/bilingue),idealista,Scaleup,Hybrid,"22,000€ - 28,000€",Estimated,10,Madrid (Hybrid),No,• Product company context,"• Market qualification/sales position
+• Hybrid in Madrid
+• Detailed JD missing",This role handles market research and lead qualification in French. It does not match a software engineering profile.,N/A,2 weeks ago,2026-08-11T20:05:08.172Z
+0,REJECT,People & Talent (intern),idealista,Scaleup,Hybrid,"8,000€ - 12,000€",Estimated,10,Madrid (Hybrid),No,• HR experience in tech scaleup,"• HR internship position
+• Hybrid in Madrid
+• Detailed JD missing",This is a human resources internship position. It is completely outside the candidate's career path as a experienced software engineer.,N/A,1 week ago,2026-08-11T20:05:08.172Z
+95,HIGHLY INTERESTED,Mid/Senior Backend Engineer (Java),Revolut,Scaleup,Remote,55.000€ - 70.000€,Estimated,80,Spain (Remote),No,"• 100% remote contract in Spain
+• Modern Java stack (17/21), microservices, cloud
+• Outstanding pay scale well above target 45k€","• Rigorous technical interview process
+• High throughput fast-paced environment","This position offers an ideal profile match with top market salary, remote contract in Spain, and modern Java backend architecture. It is a top recommendation.",N/A,4 days ago,2026-08-11T20:18:58.666Z
+92,HIGHLY INTERESTED,Software Engineer (Java),Revolut,Scaleup,Remote,55.000€ - 70.000€,Estimated,80,Portugal,Yes,"• Modern stack: Java 17/21, GCP, Kubernetes, Postgres, Redis, Spock
+• Mid/Senior role accepting 4+ years (accessible for 3.5 yrs)
+• Top-tier fintech product company with remote culture and high pay","• Challenging interview process with TDD/DDD emphasis
+• Fast-paced high pressure environment","Revolut offers an exceptional technical match with modern Java 17/21 microservices, cloud, and outstanding compensation. The mid-level bar perfectly fits the candidate's experience.",https://www.linkedin.com/jobs/view/3083007072/,Reposted 1 week ago,2026-08-11T20:18:44.291Z
+92,HIGHLY INTERESTED,Software Engineer III,Sinch,Scaleup,Remote,45.000€ - 60.000€,Real,70,"Madrid, Community of Madrid, Spain",Yes,"• Explicit salary range €45.000 - €60.000 matching target preferences
+• Strong stack fit: Java microservices, event-driven, Kafka, REST APIs
+• SaaS product company (Sinch Customer Communications Cloud)",• 3-5 years experience expectation is at top of candidate profile,Sinch offers an exceptional product engineering opportunity with explicitly posted compensation matching candidate goals. The technical focus on Java microservices and Kafka aligns seamlessly.,https://www.linkedin.com/jobs/view/4444406027/,2 weeks ago,2026-08-11T20:19:01.611Z
+88,HIGHLY INTERESTED,Software Engineer (Java/Kotlin/Spring Boot/Microservices/AWS),Santander Consumer Finance,Scaleup,Remote,42.000€ - 50.000€,Estimated,60,Spain (Remote),No,"• Exact tech stack match: Java, Spring Boot, Microservices, AWS
+• 100% remote option within Spain
+• Solid product/fintech entity paying 40k-50k€","• Corporate banking environment
+• Missing full description details",The job title explicitly lists every element of the candidate's core stack alongside remote work in Spain. It is a very strong match.,N/A,1 week ago,2026-08-11T20:18:58.667Z
+85,HIGHLY INTERESTED,Backend Software Engineer Specialist,StubHub International,Scaleup,Remote,45.000€ - 58.000€,Estimated,70,Madrid (Remote),No,"• Product company domain (ticketing platform)
+• 100% remote option in Spain
+• Salary exceeds target threshold (>45k€)","• Missing detailed JD text in snippet
+• 'Specialist' title scope needs confirmation","StubHub International offers an excellent mix of remote work in Spain, product scale, and target compensation. It should be prioritized.",N/A,2 weeks ago,2026-08-11T20:18:58.667Z
+80,HIGHLY INTERESTED,Mid/Senior Java Engineer (m/f/d),Redcare Pharmacy,Scaleup,Remote,50.000€ - 65.000€,Estimated,65,Berlin (Remote),No,"• Mid/Senior range fits candidate 3.5 years profile perfectly
+• European e-commerce product leader
+• Remote modality with attractive German salary rates","• Full JD text absent from snippet
+• Berlin remote contract terms need checking","Redcare Pharmacy offers a great combination of product focus, mid/senior level sizing, and competitive remote pay. It should be prioritized for review.",N/A,4 hours ago,2026-08-11T20:18:44.291Z
+78,HIGHLY INTERESTED,Software Engineer II (Data Products),Akamai Technologies,Scaleup,Remote,45.000€ - 58.000€,Estimated,70,Cracow (Remote),No,"• Level II title fits candidate's 3.5 years experience perfectly
+• Global edge and infrastructure product leader
+• High scale data pipelines and microservices","• Location listed as Cracow (remote eligibility from Spain needs check)
+• Missing full description","Akamai is a global infrastructure leader, and the Engineer II level fits the candidate's semisenior background well. Spain remote applicability should be verified.",N/A,1 day ago,2026-08-11T20:18:49.980Z
+75,MAYBE / REVIEW,Software Engineer,Twilio,Scaleup,Remote,50.000€ - 65.000€,Estimated,75,Ireland (Remote),No,"• Top tier global cloud/CPaaS product company
+• Excellent compensation and remote culture","• Ireland location listing needs confirmation for Spain tax residency
+• High interview difficulty bar",Twilio is a top-tier product company with excellent compensation and technical culture. Location requirements must be verified.,N/A,1 week ago,2026-08-11T20:18:44.291Z
+75,MAYBE / REVIEW,Software Engineer II - Backend,New Relic,Scaleup,,48.000€ - 60.000€,Estimated,75,Barcelona,No,"• Tier 1 observability product company
+• Level II seniority matches 3.5 years experience
+• High salary range","• Modality missing in posting (Barcelona site)
+• High technical interview standards",New Relic is a premier engineering company with great pay. The role warrants application once remote availability from Barcelona is confirmed.,N/A,5 days ago,2026-08-11T20:18:58.667Z
+75,MAYBE / REVIEW,"Software Development Engineer (Java&AWS), Ring",Ring,Scaleup,,50.000€ - 65.000€,Estimated,80,Madrid,No,"• Amazon/Ring product ecosystem
+• Exact stack match: Java & AWS cloud
+• High compensation tier","• Unspecified work modality in Madrid (likely hybrid 3 days)
+• Demanding Amazon interview loop",Ring provides exceptional tech scale and competitive compensation matching Java and AWS. Modality flexibility needs to be verified.,N/A,6 hours ago,2026-08-11T20:18:58.667Z
+75,HIGHLY INTERESTED,Software Engineer - Digital Trust,Feedzai,Scaleup,Remote,42.000€ - 52.000€,Estimated,70,Portugal (Remote),No,"• Leading Portuguese AI/fraud prevention scaleup
+• 100% remote option
+• High-scale distributed Java systems","• Full JD text missing in prompt
+• High technical interview standards",Feedzai is a premier AI tech product company in risk engineering. Its strong remote backend fit warrants a high interest rating.,N/A,4 days ago,2026-08-11T20:18:49.980Z
+72,MAYBE / REVIEW,Mid-Level Backend Developer,Genki,Startup,Remote,up to 60.000€,Real,65,Spain,Yes,"• 100% remote from anywhere in the world
+• High salary up to 5,000 EUR/month (60k€/yr) + equity
+• Mid-level seniority fit","• Stack centers on Kotlin with custom framework and event sourcing rather than standard Java/Spring
+• Small startup environment with fast-moving ambiguity","Genki offers outstanding remote flexibility and compensation up to 60k€. However, the stack relies on Kotlin and custom event-sourcing frameworks rather than traditional Java/Spring Boot.",https://www.linkedin.com/jobs/view/4416092529/,3 months ago,2026-08-11T20:19:07.917Z
+70,MAYBE / REVIEW,Software Engineer (Kotlin/Java),Vonage,Scaleup,,45.000€ - 55.000€,Estimated,65,Greater Madrid Metropolitan Area,No,"• CPaaS product business (Ericsson group)
+• Direct Java & Kotlin backend fit
+• Good compensation level","• Work modality not explicitly listed
+• Madrid area office tie",Vonage is an attractive communications product company. Modality details must be clarified to confirm full remote flexibility.,N/A,1 week ago,2026-08-11T20:18:58.667Z
+70,MAYBE / REVIEW,Product Software Engineer,Brightflag,Scaleup,Remote,45.000€ - 55.000€,Estimated,65,Ireland (Remote),No,"• Product company based in Ireland
+• 100% remote position
+• Good salary standards","• Missing job description text
+• Needs validation of primary programming language",Brightflag is an attractive Irish legaltech scaleup with remote opportunities. Full job description review is recommended.,N/A,6 days ago,2026-08-11T20:18:44.291Z
+70,MAYBE / REVIEW,Java Developer (f/m/x),Emporix,Startup,Remote,42.000€ - 52.000€,Estimated,60,Poland (Remote),No,"• B2B commerce cloud product company
+• 100% remote flexibility in EU
+• Modern Java stack alignment","• Full JD missing from entry
+• Poland remote residency confirmation needed",Emporix is a growing cloud commerce product firm with strong remote alignment. Full JD review is recommended.,N/A,1 day ago,2026-08-11T20:18:49.980Z
+68,MAYBE / REVIEW,Backend Engineer - Subscriptions,N26,Scaleup,Hybrid,45.000€ - 58.000€,Estimated,75,"Barcelona, Catalonia, Spain",Yes,"• Top European fintech brand with modern architecture
+• Direct stack match: JVM, Spring Boot, Microservices, AWS, Postgres
+• Attractive salary scale","• Hybrid modality required in Barcelona
+• Requires local office attendance",N26 offers an ideal tech stack and high product engineering standards. The mandatory hybrid policy in Barcelona is the primary constraint against candidate preferences.,https://www.linkedin.com/jobs/view/4419900397/,Reposted 1 week ago,2026-08-11T20:19:28.701Z
+65,MAYBE / REVIEW,Backend Engineer,Freenow,Scaleup,Hybrid,45.000€ - 55.000€,Estimated,70,Barcelona (Hybrid),No,"• Top European mobility product scaleup
+• Excellent pay scale and modern tech stack
+• Java/Kotlin microservices","• Hybrid attendance in Barcelona office
+• Requires relocation if candidate is not in Barcelona","Freenow is a prime product scaleup with great engineering culture. However, hybrid work in Barcelona presents a geographic challenge.",N/A,3 hours ago,2026-08-11T20:18:58.667Z
+65,MAYBE / REVIEW,Senior Backend Engineer (Java),Moniepoint Group,Scaleup,Remote,50.000€ - 65.000€,Estimated,70,Poland (Remote),No,"• Fast-growing global fintech unicorn
+• High-scale Java microservices backend
+• 100% remote","• Senior title expectation
+• Missing job description details",Moniepoint is an exciting fintech scaleup with strong engineering challenges. Role seniority needs to be evaluated.,N/A,1 week ago,2026-08-11T20:18:49.980Z
+65,MAYBE / REVIEW,Senior Backend Engineer Java / Spring Boot - remote,wealthAPI,Startup,Remote,50.000€ - 65.000€,Estimated,70,Germany (Remote),No,"• Fintech API product focus
+• Direct match with Java and Spring Boot stack
+• German remote compensation levels","• Senior title requirement
+• Missing job description details",A German fintech API product firm offering strong salary potential. Experience criteria must be checked against senior requirements.,N/A,1 month ago,2026-08-11T20:18:49.980Z
+65,MAYBE / REVIEW,Middle Java Engineer (Payments),Patrianna,Product,Remote,40.000€ - 50.000€,Estimated,65,Ukraine (Remote),No,"• Mid-level seniority matches profile experience
+• Product company domain in payments
+• Remote work flexibility","• Lack of full job description text
+• iGaming/fintech sector risks",A middle backend role in payments matching Java skills and remote preferences. Reviewing the full job description is required before applying.,N/A,1 week ago,2026-08-11T20:18:44.290Z
+65,MAYBE / REVIEW,Software Developer,GoDaddy,Scaleup,Remote,40.000€ - 50.000€,Estimated,65,Romania (Remote),No,"• Global tech product brand
+• 100% remote work policy","• Location listed as Romania
+• Missing job description details",GoDaddy is an attractive product firm offering remote positions. Verification is needed to check if Spanish residents are eligible.,N/A,2 weeks ago,2026-08-11T20:18:44.291Z
+65,MAYBE / REVIEW,Software Engineer (f/m/d),Awin Global,Scaleup,Remote,40.000€ - 50.000€,Estimated,60,Romania (Remote),No,"• Global affiliate marketing product network
+• 100% remote position","• Location specified as Romania
+• No full job description supplied",Awin is a reputable product business offering remote engineering. Detailed JD review is needed to verify stack and location flexibility.,N/A,6 days ago,2026-08-11T20:18:49.980Z
+60,MAYBE / REVIEW,Senior Backend Engineer,Harmonic Security,Startup,Remote,50.000€ - 70.000€,Estimated,75,London (Remote),No,"• AI cybersecurity startup environment
+• High compensation potential
+• 100% remote","• Senior level bar
+• Stack needs confirmation (Java vs Python/Go)
+• Missing JD text",An exciting cybersecurity startup offer with attractive salary potential. Primary programming stack needs verification.,N/A,3 weeks ago,2026-08-11T20:18:49.980Z
+60,MAYBE / REVIEW,Senior Backend Engineer (Java),Benifex,Startup,Remote,50.000€ - 65.000€,Estimated,75,United Kingdom (Remote),No,"• Strong salary potential from UK product company
+• 100% remote Java stack","• Senior title may require more than 3.5 years of experience
+• Detailed JD missing",The potential pay and technology alignment are compelling for this UK product company. Candidate must verify if 3.5 years experience qualifies for Senior bar.,N/A,1 month ago,2026-08-11T20:18:44.291Z
+60,MAYBE / REVIEW,Java Developer (Spring Boot) [gn],LUMASERV,SME,Remote,42.000€ - 52.000€,Estimated,60,Germany (Remote),No,"• German market competitive pay scale
+• Direct Java & Spring Boot match
+• 100% remote","• German language skills might be required
+• No full job description supplied",This German remote position aligns well with Spring Boot stack preferences and pay expectations. German language requirements must be clarified.,N/A,2 months ago,2026-08-11T20:18:44.291Z
+60,MAYBE / REVIEW,Software Backend Engineer,ING España&Portugal,Scaleup,Hybrid,42.000€ - 52.000€,Estimated,65,Greater Madrid Metropolitan Area (Hybrid),No,"• Tech-forward banking product enterprise
+• Competitive salary (>42k€)
+• Modern Java ecosystem","• Hybrid work schedule in Madrid
+• No full job description supplied",ING has an outstanding engineering culture and strong pay in Madrid. The hybrid requirement is the main drawback.,N/A,1 month ago,2026-08-11T20:18:58.667Z
+60,MAYBE / REVIEW,Senior Backend Developer,Tempo Software,Scaleup,Remote,50.000€ - 65.000€,Estimated,70,Canada (Remote),No,"• Established product firm (Atlassian ecosystem)
+• 100% remote position","• Canada location header may imply North American working hours
+• Senior role seniority",Tempo offers strong developer tools products. Timezone and contract details must be checked due to the Canadian location label.,N/A,1 week ago,2026-08-11T20:18:49.980Z
+55,MAYBE / REVIEW,Senior Java Engineer,Patrianna,Product,Remote,45.000€ - 55.000€,Estimated,70,Ukraine (Remote),No,"• Remote Java product development
+• Competitive pay range","• Senior role might exceed current 3.5 years seniority
+• Missing JD text",A senior Java offer that provides good salary potential. Accessibility depends on interview assessment regarding experience length.,N/A,2 weeks ago,2026-08-11T20:18:44.291Z
+55,MAYBE / REVIEW,Mid/Senior Java Developer,Bonapolia,Consulting,Remote,40.000€ - 50.000€,Estimated,65,Tallinn (Remote),No,"• Mid/Senior seniority level
+• 100% remote Java role","• Estonian agency/consulting proxy
+• Missing job description details",A remote mid/senior Java position based in Tallinn. It requires full job description verification.,N/A,2 weeks ago,2026-08-11T20:18:49.980Z
+55,MAYBE / REVIEW,Back-End Software Engineer,Santander Consumer Finance Global Services,Scaleup,Hybrid,38.000€ - 46.000€,Estimated,60,Boadilla del Monte,No,"• Java microservices ecosystem
+• Financial enterprise experience","• Location Boadilla del Monte indicates hybrid work
+• Corporate bureaucratics","A solid backend position, but hybrid attendance in Boadilla del Monte limits interest. Remote flexibility should be checked.",N/A,2 days ago,2026-08-11T20:18:58.667Z
+55,MAYBE / REVIEW,Java Backend Engineer,BME | Bolsas y Mercados Españoles,Scaleup,Hybrid,40.000€ - 48.000€,Estimated,65,Madrid (Hybrid),No,"• Mission-critical financial market infrastructure
+• Competitive salary potential in Madrid","• Hybrid attendance requirement in Madrid
+• Legacy system maintenance risk","BME offers solid financial product experience and compensation. However, hybrid attendance requirement detracts from candidate preference.",N/A,4 days ago,2026-08-11T20:18:58.667Z
+55,MAYBE / REVIEW,Java Developer – Step Into Low Latency,Orbis Group,Consulting,Remote,50.000€ - 65.000€,Estimated,75,"England, United Kingdom (Remote)",No,"• Attractive domain in low-latency Java performance
+• Strong UK pay rates","• High technical difficulty bar
+• Recruitment agency listing lacking full JD",Low-latency Java engineering offers great skill growth and compensation. Detailed requirements must be reviewed.,N/A,4 days ago,2026-08-11T20:18:49.980Z
+55,MAYBE / REVIEW,Java Services Engineer,RubyPlay,Startup,Remote,38.000€ - 48.000€,Estimated,60,Warsaw (Remote),No,"• Remote Java microservices engineering
+• Product development focus","• Location listed as Warsaw
+• Missing job description details",A remote Java services engineering role. Cross-border hiring capability from Spain must be reviewed.,N/A,2 weeks ago,2026-08-11T20:18:49.980Z
+55,MAYBE / REVIEW,Java Backend Developer,Renmoney,Startup,Remote,35.000€ - 45.000€,Estimated,60,Serbia (Remote),No,"• Fintech product domain
+• 100% remote Java development","• Location listed as Serbia
+• Missing job description details",A remote fintech developer position matching Java stack. Contractual feasibility from Spain needs verification.,N/A,2 months ago,2026-08-11T20:18:44.291Z
+55,MAYBE / REVIEW,Java Software Engineer (Remote),GeoSolutions,SME,Remote,38.000€ - 48.000€,Estimated,60,Italy (Remote),No,"• 100% remote role based in EU
+• Core Java software engineering title","• Detailed job description is missing
+• Requires confirmation on Spanish tax residence compatibility","This offer aligns with Java backend development and remote work preferences. However, a detailed JD is needed to verify contract type and exact salary range.",N/A,5 months ago,2026-08-11T20:18:44.290Z
+50,MAYBE / REVIEW,Java Developer (Remote),IT Search,Consulting,Remote,45.000€ - 55.000€,Estimated,60,Ireland (Remote),No,"• Irish agency role with potential for competitive compensation
+• 100% remote position","• Agency posting missing full JD
+• Cross-border tax setup required",An Irish recruitment agency listing for remote Java development. It warrants a quick review once full details are available.,N/A,6 days ago,2026-08-11T20:18:44.291Z
+50,MAYBE / REVIEW,Senior Java Engineer,B2Spin Limited,Startup,Remote,40.000€ - 50.000€,Estimated,65,Ukraine (Remote),No,• 100% remote Java role,"• Senior title requirement
+• Missing detailed description
+• iGaming domain",A remote Java role for a gaming startup. Details are missing and senior experience demands must be verified.,N/A,1 week ago,2026-08-11T20:18:49.980Z
+50,MAYBE / REVIEW,Software Engineer Microservices (m/f/d),SOFICO,SME,Hybrid,38.000€ - 45.000€,Estimated,60,Madrid (Hybrid),No,"• Auto mobility software product
+• Microservices stack","• Hybrid work requirement in Madrid
+• Missing job description details",A microservices product engineering offer with SOFICO. Hybrid office presence makes it lower priority.,N/A,2 weeks ago,2026-08-11T20:18:58.667Z
+50,MAYBE / REVIEW,Back-End Software Engineer,Santander,Scaleup,,38.000€ - 46.000€,Estimated,60,Boadilla del Monte,No,"• Large-scale banking architecture
+• Java backend core","• Location Boadilla suggests hybrid presence
+• Corporate environment",A standard banking backend vacancy. Work modality needs confirmation to evaluate against remote criteria.,N/A,3 weeks ago,2026-08-11T20:18:58.667Z
+50,MAYBE / REVIEW,Java Software Engineer,Langham Recruitment,Consulting,Remote,45.000€ - 55.000€,Estimated,60,United Kingdom (Remote),No,"• UK remote recruitment agency offer
+• Good market salary estimate","• Agency proxy post without full description
+• UK remote compliance from Spain required",A remote UK Java role listed through an agency. Further details are needed regarding the end client and contract setup.,N/A,3 weeks ago,2026-08-11T20:18:49.980Z
+50,MAYBE / REVIEW,Java Software Engineer,Better Placed,Consulting,Remote,45.000€ - 55.000€,Estimated,65,"London Area, United Kingdom (Remote)",No,"• UK-level compensation potential
+• 100% remote Java role","• Recruitment agency listing without detailed JD
+• UK remote hiring regulations from Spain need confirmation",This UK-based remote vacancy could offer strong salary potential. Further details are required to confirm remote eligibility from Spain.,N/A,1 day ago,2026-08-11T20:18:44.291Z
+45,MAYBE / REVIEW,Intermediate Java Software Engineer,Version 1,Consulting,,40.000€ - 50.000€,Estimated,60,London,No,"• Intermediate level fits semisenior background
+• Java backend focus","• UK consulting firm
+• Unclear remote policy (based in London)
+• Missing job description details",An intermediate Java role with a UK consulting firm. Modality and remote eligibility from Spain need clarification.,N/A,2 weeks ago,2026-08-11T20:18:49.980Z
+45,MAYBE / REVIEW,Back-End Java Developer,Proxima Group,Consulting,Remote,35.000€ - 42.000€,Estimated,55,Milan (Remote),No,"• Italian remote backend position
+• Java stack alignment","• Consultancy business model
+• No detailed job description text",A remote backend role in an Italian consulting context. It requires JD review to confirm salary and tech stack details.,N/A,1 week ago,2026-08-11T20:18:44.291Z
+45,MAYBE / REVIEW,Java Software Engineer,Forte Group,Consulting,Remote,35.000€ - 45.000€,Estimated,60,Ukraine (Remote),No,"• Remote Java engineering role
+• Non-Spanish consultancy","• Consultancy model
+• Missing job description details
+• Location listed as Ukraine","The role matches technical expectations and remote work, but consultancy nature and Ukrainian location require contract clarification. Detailed requirements are currently missing.",N/A,1 week ago,2026-08-11T20:18:44.290Z
+45,MAYBE / REVIEW,Backend Software Engineer (Digital Transformation),emagine,Consulting,Remote,35.000€ - 45.000€,Estimated,60,Portugal (Remote),No,"• 100% remote backend role
+• European consulting scope","• Consultancy project assignment
+• Missing JD description details",A backend role with a European digital consultancy. Detailed JD and client details are required.,N/A,1 week ago,2026-08-11T20:18:49.980Z
+45,MAYBE / REVIEW,Senior Backend Engineer (Java),Innovecs,Consulting,Remote,40.000€ - 50.000€,Estimated,70,Ukraine (Remote),No,• 100% remote Java backend work,"• Global outsourcing agency
+• Senior role bar
+• Missing job description",An outsourcing consultancy position with senior requirements. It is a lower priority candidate match.,N/A,1 week ago,2026-08-11T20:18:44.291Z
+45,MAYBE / REVIEW,Java Software Engineer,Phi Partners,Consulting,Remote,38.000€ - 48.000€,Estimated,60,Poland (Remote),No,"• Capital markets / fintech consultancy domain
+• 100% remote Java engineering","• Capital markets consultancy firm
+• Missing JD details",A niche fintech consultancy role offering remote Java work. Full job description review is needed.,N/A,3 weeks ago,2026-08-11T20:18:49.980Z
+40,REJECT,Java Software Engineer,KWAN,Consulting,Remote,32.000€ - 40.000€,Estimated,55,Portugal (Remote),No,• Remote work in Portugal/Spain region,"• Portuguese consultancy agency
+• Salary range below candidate targets
+• Missing detailed JD",This Portuguese consultancy position falls below the target salary expectation. It holds limited interest.,N/A,1 month ago,2026-08-11T20:18:44.291Z
+40,REJECT,Backend Developer,Terra,SME,Remote,28.000€ - 35.000€,Real,50,"Bilbao, Basque Country, Spain",Yes,"• 100% permanent remote contract in Spain
+• Generous 23 PTO days + benefits","• Salary €28k - €35k is significantly below the candidate's €40k-€45k+ threshold
+• Digital marketing agency environment","Terra provides permanent remote work, but the stated salary of €28k-€35k falls significantly short of the candidate's compensation floor. It should be rejected.",https://www.linkedin.com/jobs/view/4444172502/,Reposted 1 week ago,2026-08-11T20:19:11.874Z
+40,REJECT,Mid Level Backend Engineer (Java/Kotlin),Parser,Consulting,Hybrid,35.000€ - 42.000€,Estimated,55,Madrid (Hybrid),No,"• Mid-level role title
+• Java/Kotlin stack","• Consulting consultancy nature
+• Hybrid presence in Madrid required
+• Below target salary",This hybrid consultancy position in Madrid falls short of compensation targets and remote preferences. It is rejected.,N/A,1 month ago,2026-08-11T20:18:58.667Z
+40,REJECT,Java Developer (CI/CD),Coforge,Consulting,Remote,35.000€ - 42.000€,Estimated,55,Spain (Remote),No,"• Remote work in Spain
+• Focus on Java and DevOps/CI-CD pipeline","• Global outsourcing consultancy firm
+• Salary below desired 45k€ target
+• Missing full description",This IT consulting outsourcing role offers below-market pay for a consultancy setup. It does not meet preferred criteria.,N/A,1 week ago,2026-08-11T20:18:44.291Z
+40,REJECT,Java/Spring Boot Backend Developer – Cassandra | 100% remoto,Qaracter - Beyond your Challenge,Consulting,Remote,34.000€ - 40.000€,Estimated,55,Spain (Remote),No,"• 100% remote in Spain
+• Good stack combo (Java, Spring Boot, NoSQL/Cassandra)","• Spanish consulting firm (red flag)
+• Salary unlikely to reach 45k€ threshold
+• No full JD provided","Although the technical stack and remote modality match well, this is a Spanish consultancy company. Estimated compensation is below candidate targets.",N/A,1 day ago,2026-08-11T20:18:44.290Z
+38,REJECT,"Java Backend Developer | Spring Boot, Microservicios | Remoto",knowmad mood,Consulting,Remote,32.000€ - 38.000€,Estimated,50,Madrid (Remote),No,"• 100% remote in Spain
+• Direct stack fit with Spring Boot and Microservices","• Spanish consultancy firm (red flag)
+• Salary below target
+• Missing JD text",This position is at a Spanish consultancy firm with typical market rates below 40k€. It triggers explicit red flags.,N/A,3 weeks ago,2026-08-11T20:18:49.980Z
+38,REJECT,Software Engineer Java (100% teletrabajo),knowmad mood,Consulting,Remote,32.000€ - 38.000€,Estimated,50,Madrid (Remote),No,"• 100% teletrabajo in Spain
+• Java software engineering title","• Spanish consultancy firm (red flag)
+• Salary below preferred range
+• Missing job description",This Spanish consultancy offer fails the candidate's preferred company model and pay expectations. It should be rejected.,N/A,5 days ago,2026-08-11T20:18:49.980Z
+38,REJECT,Backend Java Microservices Developer | Sector Bancario,Vermont Solutions,Consulting,Remote,32.000€ - 38.000€,Estimated,55,Madrid (Remote),No,"• Remote work in Spain
+• Java microservices in banking domain","• Spanish consultancy firm
+• Sub-target salary rates
+• Missing JD text",This Spanish consultancy body-leasing offer for banking clients does not fulfill salary or company preferences. It is rejected.,N/A,3 weeks ago,2026-08-11T20:18:49.980Z
+35,REJECT,Backend Engineer (Java/Spring Boot),METRICA,Consulting,Remote,32.000€ - 38.000€,Estimated,50,Madrid (Remote),No,"• 100% remote modality in Spain
+• Direct match with Java and Spring Boot technologies","• Spanish consultancy firm (candidate red flag)
+• Estimated salary is below the 40k€-45k€ threshold
+• No detailed job description provided","While the role offers remote work with Java and Spring Boot, Spanish consultancy firms are a explicit red flag for the candidate. Additionally, estimated pay falls well below desired compensation.",N/A,1 month ago,2026-08-11T20:18:44.290Z
+35,REJECT,Programador/a Backend JAVA / Microservicios,METRICA,Consulting,Remote,30.000€ - 36.000€,Estimated,45,Madrid (Remote),No,"• 100% remote work
+• Java microservices technology","• Spanish consultancy firm
+• Low salary tier
+• Listing posted 3 months ago (likely stale)",This old listing from a Spanish consultancy offers below-target pay. It should be rejected.,N/A,3 months ago,2026-08-11T20:18:49.980Z
+35,REJECT,Java Backend Engineer,METRICA,Consulting,Remote,32.000€ - 38.000€,Estimated,50,Madrid (Remote),No,"• Remote work in Spain
+• Java backend title","• Spanish IT consultancy (red flag)
+• Low salary expectation
+• Missing job description details","As a Spanish consulting agency offering sub-target compensation, this listing triggers explicit red flags for the candidate.",N/A,2 months ago,2026-08-11T20:18:44.291Z
+30,REJECT,Backend Engineer JAVA / Spring Boot - HYBRID MADRID,UST,Consulting,Hybrid,32.000€ - 38.000€,Estimated,50,Madrid,No,• Java and Spring Boot match,"• Spanish consulting firm outsourcing
+• Explicit hybrid requirement in Madrid
+• Low salary structure",This hybrid consultancy role in Madrid triggers multiple red flags including company type and required office presence.,N/A,2 weeks ago,2026-08-11T20:18:58.667Z
+30,REJECT,Software Development Engineer II,Expedia Group,Scaleup,Onsite,45.000€ - 55.000€,Estimated,70,Madrid (On-site),No,"• SDE II level matches experience
+• Top global travel product brand","• Onsite work requirement in Madrid
+• Violates 100% remote work preference","Despite great brand equity and role level matching, mandatory onsite work in Madrid violates the remote preference. It should be rejected.",N/A,2 hours ago,2026-08-11T20:18:58.666Z
+25,REJECT,Software Engineer III,Expedia Group,Scaleup,Onsite,50.000€ - 65.000€,Estimated,75,Madrid (On-site),No,"• Global tier 1 product company
+• High salary range","• Onsite requirement in Madrid
+• Senior III level might demand more experience",This role requires onsite presence in Madrid. It should be rejected due to location modality policy.,N/A,6 days ago,2026-08-11T20:18:58.667Z
+25,REJECT,Backend Software Engineer,Huspy,Startup,Onsite,40.000€ - 50.000€,Estimated,65,Madrid (On-site),No,"• Fast-growing proptech startup
+• Backend engineering focus","• Mandatory onsite work in Madrid office
+• Conflicts with candidate remote work criteria",Huspy requires mandatory onsite attendance in Madrid. This directly violates candidate preferences.,N/A,1 month ago,2026-08-11T20:18:58.666Z
+20,REJECT,Java Software Engineer (Remote in Scotland),ATPCO,SME,Remote,45.000€ - 55.000€,Estimated,60,"Scotland, United Kingdom (Remote)",No,• Java software engineering role in aviation domain,"• Explicit location restriction to Scotland/UK
+• Candidate located in Spain/Switzerland target",The role explicitly mandates residency in Scotland. It is a location red flag for the candidate.,N/A,2 weeks ago,2026-08-11T20:18:44.291Z
+15,REJECT,Software Engineer (Java),FindingVega,Consulting,Hybrid,40.000€ - 50.000€,Estimated,60,Dublin (Hybrid),No,• Java software engineering role,"• Mandatory hybrid attendance in Dublin, Ireland
+• Red flag location outside Spain/Switzerland",This hybrid position mandates physical attendance in Dublin. It triggers a location red flag.,N/A,2 weeks ago,2026-08-11T20:18:49.980Z
+10,REJECT,Junior / Mid-level Java Software Developer,Tricast Ltd,SME,Hybrid,22.000€ - 30.000€,Estimated,40,Győr (Hybrid),No,• Accessible junior/mid seniority level,"• Hybrid work in Hungary (Győr)
+• Low local pay scale
+• Violates location/remote preference",This hybrid role requires physical presence in Hungary. It is a location red flag and should be rejected.,N/A,2 months ago,2026-08-11T20:18:49.980Z
+0,REJECT,People & Talent (intern),idealista,Scaleup,Hybrid,10.000€ - 14.000€,Estimated,10,Madrid (Hybrid),No,• HR department experience,"• HR internship
+• Underqualified salary and non-tech focus",This offer is an HR internship position. It bears zero relevance to a mid-level software engineer.,N/A,1 week ago,2026-08-11T20:05:08.172Z
+0,REJECT,Agente venta consultiva - AvaiBook,idealista,Scaleup,Hybrid,22.000€ - 28.000€,Estimated,10,Madrid (Hybrid),No,• SaaS product line (AvaiBook),"• Consultative sales position
+• Hybrid modality",This is a consultative sales position for AvaiBook software. It is completely outside the candidate's backend career track.,N/A,2 weeks ago,2026-08-11T20:05:08.172Z
+0,REJECT,Qualification de marché (français natif/bilingue),idealista,Scaleup,Hybrid,22.000€ - 26.000€,Estimated,10,Madrid (Hybrid),No,• International business focus,"• Market research / lead qualification
+• Non-engineering domain",This market qualification position is non-technical and offers no engineering growth. It is rejected.,N/A,2 weeks ago,2026-08-11T20:05:08.172Z
+0,REJECT,Atención al cliente con Italiano para Fines de Semana y Festivos,idealista,Scaleup,,15.000€ - 20.000€,Estimated,10,Madrid,No,• Product company environment,"• Customer support role
+• Part-time weekend schedule outside software development",This weekend customer support vacancy is entirely non-technical. It is completely irrelevant for a Java software engineer.,N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Senior Accountant - Controller (FR),idealista,Scaleup,Hybrid,35.000€ - 45.000€,Estimated,10,Madrid (Hybrid),No,• Established product company,"• Finance and accounting role
+• Hybrid presence required in Madrid",This offer is for an accounting position and has no relevance to software engineering. It also requires hybrid presence in Madrid.,N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Chargé(e) de relation client / prospection (français natif/bilingue),idealista,Scaleup,,20.000€ - 25.000€,Estimated,10,Madrid,No,• Well-known product company in Spain,"• Non-technical customer relationship role
+• Total mismatch with software engineering profile",This position is a customer relations role that does not involve software engineering. It holds zero technical alignment with the candidate's profile.,N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Atención al cliente con Portugués para Fines de Semana y Festivos (Madrid),idealista,Scaleup,Onsite,15.000€ - 18.000€,Estimated,5,Madrid (On-site),No,• Stable platform company,"• Onsite customer support
+• Weekend shifts, non-engineering",This onsite weekend customer service offer provides no engineering tasks. It is incompatible with the candidate's profile.,N/A,2 weeks ago,2026-08-11T20:05:08.172Z
+0,REJECT,Key Account Manager (italian market),idealista,Scaleup,Hybrid,35.000€ - 45.000€,Estimated,15,Madrid (Hybrid),No,• Commercial account management,"• Sales leadership role, not engineering
+• Hybrid work in Madrid",This is a commercial key account management role focused on the Italian market. It holds no alignment with Java engineering.,N/A,2 weeks ago,2026-08-11T20:05:08.172Z
+0,REJECT,Gestor de Hipotecas - Barcelona,idealista,Scaleup,Hybrid,24.000€ - 30.000€,Estimated,10,Barcelona (Hybrid),No,• Established real estate ecosystem,"• Non-technical role
+• Hybrid in Barcelona",This mortgage manager offer is non-technical and location-restricted to Barcelona. It must be rejected.,N/A,1 week ago,2026-08-11T20:05:08.172Z
+0,REJECT,Gestor Hipotecario - Málaga,idealista,Scaleup,Hybrid,24.000€ - 30.000€,Estimated,10,Málaga (Hybrid),No,• Fintech branch of idealista,"• Mortgage management role
+• Hybrid in Málaga",This position entails mortgage administration rather than backend software engineering. It is a complete mismatch.,N/A,1 week ago,2026-08-11T20:05:08.172Z
+0,REJECT,Atención al Cliente bilingüe italiano - part time,idealista,Scaleup,,12.000€ - 16.000€,Estimated,10,Madrid,No,• Known company,"• Part-time customer service
+• Non-technical role",This part-time customer support vacancy has no relevance to software development. It should be rejected.,N/A,1 week ago,2026-08-11T20:05:08.172Z
+0,REJECT,Fotógrafo/a Freelance - Figueres,idealista,Scaleup,Onsite,18.000€ - 24.000€,Estimated,5,Madrid (On-site),No,• Freelance contract,"• Onsite photography role
+• Complete mismatch with profile",This photography job requires physical presence and is unrelated to backend engineering. It must be rejected.,N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Comercial online,idealista,Scaleup,Hybrid,22.000€ - 28.000€,Estimated,10,Málaga (Hybrid),No,• Digital product context,"• Online sales position
+• Hybrid requirement in Málaga",This job is an online sales role in Málaga with hybrid attendance. It does not align with the candidate's technical profile.,N/A,2 weeks ago,2026-08-11T20:05:08.171Z
+0,REJECT,Chargé(e) de relation client/prospection (français natif/bilingue),idealista,Scaleup,,20.000€ - 25.000€,Estimated,10,Madrid,No,• Product company environment,"• Customer service / sales role
+• Non-engineering domain",This position focuses on customer relations and prospecting. It is entirely outside software engineering.,N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Fotógrafo/a Freelance - Mahón,idealista,Scaleup,Onsite,18.000€ - 24.000€,Estimated,5,Madrid (On-site),No,• Freelance opportunity,"• Onsite photography work
+• Non-technical role",This position involves physical real estate photography in Mahón. It provides no alignment with software development.,N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Fotógrafo/a Freelance - Huesca,idealista,Scaleup,Onsite,18.000€ - 24.000€,Estimated,5,Madrid (On-site),No,• Freelance flexibility,"• Onsite photography position
+• Irrelevant domain and low salary potential",This is a photography job requiring physical presence in Huesca. It has zero technical correlation with Java backend development.,N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Diseñador/a de Virtual Home Staging - Freelance,idealista,Scaleup,Remote,20.000€ - 28.000€,Estimated,10,Madrid (Remote),No,• Remote work flexibility,"• Interior design / staging focus
+• Non-engineering position","Although remote, this home staging design role is non-technical. It is outside the candidate's software engineering background.",N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Creative Designer (français natif/bilingue),idealista,Scaleup,Hybrid,28.000€ - 35.000€,Estimated,10,Madrid (Hybrid),No,• Creative environment in a top digital platform,"• Graphic design role, not software backend development
+• Hybrid modality",The role focuses on creative design rather than backend software development. It does not match the candidate's career goals.,N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Gestor Hipotecario – Madrid,idealista,Scaleup,Hybrid,24.000€ - 30.000€,Estimated,10,Madrid (Hybrid),No,• Product company background,"• Mortgage operations position
+• Non-technical role with mandatory hybrid attendance",This mortgage specialist job is unrelated to technology or software engineering. It should be rejected immediately.,N/A,1 week ago,2026-08-11T20:05:08.171Z
+95,HIGHLY INTERESTED,Mid/Senior Backend Engineer (Java),Revolut,Scaleup,Remote,"50,000€ - 65,000€",Estimated,85,Spain (Remote),No,"• 100% Remote in Spain
+• Top tier fintech product scaleup
+• Explicit Java focus with high-performance microservices
+• Salary well above 45k€ target","• Challenging technical interviews (Algorithms & Architecture)
+• Detailed job description missing","Outstanding match across all candidate criteria. Mid/Senior tier fits candidate's 3.5 years experience, paying top market salary with 100% remote flexibility.",N/A,4 days ago,2026-08-11T20:18:58.666Z
+88,HIGHLY INTERESTED,Mid/Senior Java Engineer (m/f/d),Redcare Pharmacy,Scaleup,Remote,"50,000€ - 65,000€",Estimated,70,Berlin (Remote),No,"• Mid/Senior range explicitly accepts ~3.5 years experience
+• 100% Remote from EU / Berlin tech scaleup
+• E-commerce product scale, excellent compensation","• Freshly posted, high applicant competition
+• Detailed job description missing","Top match. Flexible seniority tier fits candidate's profile, offering product company environment, high salary, and 100% remote work.",N/A,4 hours ago,2026-08-11T20:18:44.291Z
+88,HIGHLY INTERESTED,Software Engineer (Java/Kotlin/Spring Boot/Microservices/AWS),Santander Consumer Finance,Scaleup,Remote,"42,000€ - 48,000€",Estimated,65,Spain (Remote),No,"• 100% Remote in Spain
+• Perfect stack match: Java, Spring Boot, Microservices, AWS
+• Product/internal development, satisfying salary expectation","• Large banking corporate environment
+• Detailed job description missing",Exact technology stack alignment matching candidate's AWS Practitioner certification and core skills. 100% remote product-side banking role within compensation goals.,N/A,1 week ago,2026-08-11T20:18:58.667Z
+88,HIGHLY INTERESTED,Backend Software Engineer Specialist,StubHub International,Scaleup,Remote,"45,000€ - 55,000€",Estimated,70,Madrid (Remote),No,"• 100% Remote in Madrid/Spain
+• E-commerce tickethub scaleup product
+• Competitive salary >45k€ threshold","• High traffic event load demands strong architecture skills
+• Detailed job description missing",High-interest remote opportunity with a well-known e-commerce scaleup. Fits salary goals and backend engineering domain cleanly.,N/A,2 weeks ago,2026-08-11T20:18:58.667Z
+86,HIGHLY INTERESTED,Software Engineer II (Data Products),Akamai Technologies,Scaleup,Remote,"45,000€ - 58,000€",Estimated,70,Cracow (Remote),No,"• Software Engineer II level aligns perfectly with ~3.5 years experience
+• 100% Remote in Poland/EU
+• Global cloud infrastructure & data product leader","• Data product focus requires strong distributed systems background
+• Detailed job description missing","Excellent match in title seniority, remote modality, and product company prestige. Akamai provides top tier engineering exposure.",N/A,1 day ago,2026-08-11T20:18:49.980Z
+85,HIGHLY INTERESTED,Software Engineer,Twilio,Scaleup,Remote,"55,000€ - 75,000€",Estimated,80,Ireland (Remote),No,"• Tier-1 global tech product company
+• 100% Remote EU policy
+• High compensation and engineering excellence","• Challenging interview process (LeetCode/System Design)
+• Detailed job description missing","Exceptional opportunity with a top-tier product company. Excellent salary and remote environment, though interview difficulty is high.",N/A,1 week ago,2026-08-11T20:18:44.291Z
+83,HIGHLY INTERESTED,Software Engineer - Digital Trust,Feedzai,Scaleup,Remote,"45,000€ - 60,000€",Estimated,75,Portugal (Remote),No,"• Top AI/anti-fraud product company
+• 100% Remote in Portugal/EU
+• Modern Java, high scalability engineering","• Freshly posted, competitive candidate pool
+• Detailed job description missing",Feedzai is a premier AI risk product scaleup offering full remote work and strong engineering practices. Fits salary and tech preferences.,N/A,4 days ago,2026-08-11T20:18:49.980Z
+82,HIGHLY INTERESTED,Product Software Engineer,Brightflag,Scaleup,Remote,"45,000€ - 58,000€",Estimated,70,Ireland (Remote),No,"• Product company culture
+• 100% Remote from Ireland/EU
+• Competitive salary well within 40k-45k+ target","• Exact stack details unlisted in title
+• Detailed job description missing",Strong product engineering role in an established Irish scaleup offering attractive remote salary and career growth for a semisenior profile.,N/A,6 days ago,2026-08-11T20:18:44.291Z
+82,HIGHLY INTERESTED,Senior Backend Engineer Java / Spring Boot - remote,wealthAPI,Scaleup,Remote,"50,000€ - 65,000€",Estimated,75,Germany (Remote),No,"• Fintech API product company
+• 100% Remote in Germany/EU
+• Exact stack match: Java & Spring Boot","• Senior title requirement
+• Detailed job description missing",Fintech product company with direct stack alignment and remote option. Senior title is worth pursuing given candidate's ~3.5 years experience.,N/A,1 month ago,2026-08-11T20:18:49.980Z
+80,HIGHLY INTERESTED,Java Developer (f/m/x),Emporix,Scaleup,Remote,"42,000€ - 55,000€",Estimated,65,Poland (Remote),No,"• B2B commerce cloud product company
+• 100% Remote in EU
+• Excellent stack alignment with Java/Cloud","• Freshly posted listing
+• Detailed job description missing",Modern cloud product scaleup offering 100% remote Java engineering at a competitive salary. Strong interest match.,N/A,1 day ago,2026-08-11T20:18:49.980Z
+80,HIGHLY INTERESTED,Java Developer (Spring Boot) [gn],LUMASERV,SME,Remote,"45,000€ - 55,000€",Estimated,65,Germany (Remote),No,"• 100% Remote with German tech company
+• Direct match with Java and Spring Boot
+• Competitive German salary range","• Posted 2 months ago
+• Detailed job description missing","Strong match on stack and remote preference with a German SME, offering compensation above candidate target. Needs confirmation if the posting remains open.",N/A,2 months ago,2026-08-11T20:18:44.291Z
+80,HIGHLY INTERESTED,Middle Java Engineer (Payments),Patrianna,Scaleup,Remote,"40,000$ - 55,000$",Estimated,70,Ukraine (Remote),No,"• Mid-level targeting ~3-4 years experience perfectly
+• 100% Remote work
+• Fintech/Payments domain with strong salary potential","• High-throughput domain requires solid concurrency and testing knowledge
+• Detailed job description missing",A strong mid-level Java role in a fintech setting with full remote modality. The level matches candidate's 3.5 years experience well and meets expected remuneration criteria.,N/A,1 week ago,2026-08-11T20:18:44.290Z
+78,HIGHLY INTERESTED,Senior Backend Engineer (Java),Moniepoint Group,Scaleup,Remote,"45,000€ - 60,000€",Estimated,75,Poland (Remote),No,"• Fast-growing fintech unicorn/product scaleup
+• 100% Remote flexibility
+• High salary scale","• Senior role expectations
+• High-throughput transactional systems intensity
+• Detailed job description missing",Strong fintech product opportunity with full remote modality. Recommended to apply even with senior title.,N/A,1 week ago,2026-08-11T20:18:49.980Z
+78,HIGHLY INTERESTED,Senior Backend Engineer,Harmonic Security,Startup,Remote,"55,000£ - 70,000£",Estimated,75,London (Remote),No,"• Innovative AI/Cybersecurity product startup
+• 100% Remote flexibility
+• High salary potential","• Startup stage higher workload/risk
+• Senior requirements
+• Detailed job description missing",Exciting cybersecurity product startup with strong compensation and remote working. Fits candidate's backend career goals.,N/A,3 weeks ago,2026-08-11T20:18:49.980Z
+75,HIGHLY INTERESTED,Java Software Engineer (Remote),GeoSolutions,SME,Remote,"38,000€ - 48,000€",Estimated,65,Italy (Remote),No,"• 100% Remote work from Italy/EU
+• International non-Spanish company
+• Good alignment with Java engineering","• May involve specialized geospatial/GIS libraries requiring learning curve
+• Detailed job description missing",This is a full remote Java position in an international SME that aligns nicely with the desired modality and stack. It avoids Spanish consultancy constraints and offers competitive European rates.,N/A,5 months ago,2026-08-11T20:18:44.290Z
+75,HIGHLY INTERESTED,Mid/Senior Java Developer,Bonapolia,Scaleup,Remote,"40,000€ - 52,000€",Estimated,65,Tallinn (Remote),No,"• Mid/Senior range fits candidate experience level
+• 100% Remote from Tallinn/EU
+• Competitive salary in desired range","• Small agency/scaleup intermediary
+• Detailed job description missing",Solid remote Java opportunity with flexible seniority guidelines. Offers good technical fit and meets baseline salary expectations.,N/A,2 weeks ago,2026-08-11T20:18:49.980Z
+75,HIGHLY INTERESTED,Senior Backend Developer,Tempo Software,Scaleup,Remote,"50,000$ - 68,000$",Estimated,70,Canada (Remote),No,"• Established software product firm (Atlassian ecosystem)
+• 100% Remote model","• Senior role level
+• Potential Canadian time zone overlap requirements
+• Detailed job description missing",Reputable product company in developer tools space. Great technical fit if European working hours are supported.,N/A,1 week ago,2026-08-11T20:18:49.980Z
+75,HIGHLY INTERESTED,Java Services Engineer,RubyPlay,Scaleup,Remote,"38,000€ - 50,000€",Estimated,65,Warsaw (Remote),No,"• 100% Remote position
+• Java microservices backend engineering focus
+• International company","• iGaming domain context
+• Detailed job description missing",Focused Java services engineering role in a remote environment. Matches technical background and remote modality preferences well.,N/A,2 weeks ago,2026-08-11T20:18:49.980Z
+75,HIGHLY INTERESTED,Java Backend Developer,Renmoney,Scaleup,Remote,"40,000$ - 55,000$",Estimated,65,Serbia (Remote),No,"• Fintech product company
+• 100% Remote work
+• Good alignment with Java backend","• Posted 2 months ago
+• Detailed job description missing",Fintech product role offering full remote work and matching Java tech stack. Well suited for candidate provided position is still open.,N/A,2 months ago,2026-08-11T20:18:44.291Z
+72,MAYBE / REVIEW,Software Developer,GoDaddy,Scaleup,Remote,"35,000€ - 48,000€",Estimated,70,Romania (Remote),No,"• Reputable global tech company
+• 100% Remote flexibility
+• Strong engineering standards","• Listed under Romania location, may require local tax residency
+• Tech stack not specified in title
+• Detailed job description missing",GoDaddy is a solid product company with remote options. Candidate needs to check specific stack and local residency constraints for Romania.,N/A,2 weeks ago,2026-08-11T20:18:44.291Z
+70,MAYBE / REVIEW,Java Developer – Step Into Low Latency,Orbis Group,Unknown,Remote,"50,000£ - 65,000£",Estimated,75,"England, United Kingdom (Remote)",No,"• Opportunity to work on high-performance low latency Java systems
+• 100% Remote work option","• Demanding low-latency/concurrency technical requirements
+• Recruitment agency listing
+• Detailed job description missing",Interesting technical area for Java growth. High interview bar and potential location constraints require careful evaluation.,N/A,4 days ago,2026-08-11T20:18:49.980Z
+70,MAYBE / REVIEW,Senior Java Engineer,Patrianna,Scaleup,Remote,"45,000$ - 65,000$",Estimated,75,Ukraine (Remote),No,"• 100% Remote fintech company
+• High salary potential in USD","• Senior role might demand higher experience than 3.5 years
+• Detailed job description missing","Solid fintech Java role, though 'Senior' title might create a higher interview bar compared to their Middle Java opening.",N/A,2 weeks ago,2026-08-11T20:18:44.291Z
+70,MAYBE / REVIEW,Java Software Engineer,Better Placed,Unknown,Remote,"50,000£ - 65,000£",Estimated,70,"London Area, United Kingdom (Remote)",No,"• Attractive UK salary levels
+• 100% Remote position
+• Java stack","• Recruitment agency listing, final client unknown
+• May require UK right to work or tax residence
+• Detailed job description missing","High compensation potential and remote Java position, but published by a UK agency. Needs verification on whether remote hire from Spain/EU is permitted.",N/A,1 day ago,2026-08-11T20:18:44.291Z
+70,MAYBE / REVIEW,Software Engineer (f/m/d),Awin Global,Scaleup,Remote,"38,000€ - 48,000€",Estimated,65,Romania (Remote),No,"• International affiliate marketing product company
+• 100% Remote flexibility","• Listed in Romania, location restrictions must be verified
+• Detailed job description missing",Good product software engineering role with remote options. Needs confirmation regarding cross-border EU hiring capabilities.,N/A,6 days ago,2026-08-11T20:18:49.980Z
+70,MAYBE / REVIEW,Software Engineer II - Backend,New Relic,Scaleup,,"45,000€ - 60,000€",Estimated,75,Barcelona,No,"• Top dev tools / observability product company
+• Software Engineer II level fits ~3.5 years experience
+• Excellent pay scale","• Barcelona location with unconfirmed modality (null)
+• Detailed job description missing",Great tech company and level fit. Needs verification whether New Relic permits 100% remote work from Madrid/Spain.,N/A,5 days ago,2026-08-11T20:18:58.667Z
+68,MAYBE / REVIEW,"Software Development Engineer (Java&AWS), Ring",Ring,Scaleup,,"48,000€ - 62,000€",Estimated,75,Madrid,No,"• Amazon / Ring product brand
+• Java & AWS stack aligns with candidate's AWS certification
+• High compensation potential","• Amazon Madrid office usually mandates 3 days/week hybrid
+• Modality unconfirmed in scraping data
+• Detailed job description missing","High-quality tech product environment matching Java and AWS skills. However, Amazon's mandatory hybrid return-to-office policy is a concern.",N/A,6 hours ago,2026-08-11T20:18:58.667Z
+68,MAYBE / REVIEW,Senior Backend Engineer (Java),Benifex,Scaleup,Remote,"55,000£ - 70,000£",Estimated,80,United Kingdom (Remote),No,"• High salary range for UK remote role
+• Java backend focus","• Senior title may require more than 3.5 years of experience
+• UK remote tax location constraints possible
+• Detailed job description missing","High-paying product opportunity, but explicitly Senior title could increase interview difficulty and experience barrier.",N/A,1 month ago,2026-08-11T20:18:44.291Z
+68,MAYBE / REVIEW,Java Developer (Remote),IT Search,Unknown,Remote,"45,000€ - 60,000€",Estimated,65,Ireland (Remote),No,"• Remote role in Irish market with good rates
+• Matches Java development stack","• Recruitment firm post, end client unidentified
+• May restrict location to Ireland residents
+• Detailed job description missing",Promising remote Java opportunity with Irish recruitment firm. Worth reviewing provided EU remote tax setup is supported.,N/A,6 days ago,2026-08-11T20:18:44.291Z
+65,MAYBE / REVIEW,Java Software Engineer,Langham Recruitment,Unknown,Remote,"45,000£ - 60,000£",Estimated,65,United Kingdom (Remote),No,"• 100% Remote position
+• Good UK recruitment market pay","• Agency posting, end client unknown
+• Potential UK-only remote restriction
+• Detailed job description missing","UK remote Java role. Compensation is appealing, but candidate needs to verify EU remote contractor/employment terms.",N/A,3 weeks ago,2026-08-11T20:18:49.980Z
+65,MAYBE / REVIEW,Java Software Engineer,Forte Group,Consulting,Remote,"35,000$ - 50,000$",Estimated,65,Ukraine (Remote),No,"• 100% Remote work
+• International US/Ukrainian software consultancy
+• Fits mid-level Java experience","• Consultancy environment
+• Contractor/B2B relationship may be required
+• Detailed job description missing","Offers remote Java engineering work with an international consultancy, bypassing the Spanish consultancy red flag. Needs review regarding employment contract type and exact project details.",N/A,1 week ago,2026-08-11T20:18:44.290Z
+65,MAYBE / REVIEW,Software Engineer (Kotlin/Java),Vonage,Scaleup,,"42,000€ - 52,000€",Estimated,70,Greater Madrid Metropolitan Area,No,"• Telecom API product company (Ericsson subsidiary)
+• Kotlin/Java cloud communications tech stack","• Modality null (unconfirmed if 100% remote)
+• Detailed job description missing",Solid tech stack and product company context. Review required to check if position allows 100% remote work.,N/A,1 week ago,2026-08-11T20:18:58.667Z
+65,MAYBE / REVIEW,Senior Java Engineer,B2Spin Limited,Startup,Remote,"40,000$ - 55,000$",Estimated,70,Ukraine (Remote),No,"• 100% Remote flexibility
+• Java tech stack","• Senior title requirement
+• Gaming/iGaming domain risk profile
+• Detailed job description missing",Remote Java opening in iGaming sector. Deserves a review if candidate is comfortable with the domain and senior expectations.,N/A,1 week ago,2026-08-11T20:18:49.980Z
+62,MAYBE / REVIEW,Back-End Java Developer,Proxima Group,Consulting,Remote,"32,000€ - 40,000€",Estimated,60,Milan (Remote),No,"• 100% Remote position
+• Java backend development focus","• Italian consultancy firm
+• Italian market salaries tend to be lower than target
+• Detailed job description missing","Remote Java opportunity with an Italian consulting group. Suitable stack match, but compensation might not hit candidate expectations.",N/A,1 week ago,2026-08-11T20:18:44.291Z
+60,MAYBE / REVIEW,Senior Backend Engineer (Java),Innovecs,Consulting,Remote,"40,000$ - 55,000$",Estimated,70,Ukraine (Remote),No,"• 100% Remote position
+• Java backend development","• Outsourcing/consulting business model
+• Senior role expectation
+• Detailed job description missing",Outsourcing consultancy offering remote Java positions. Acceptable backup option but product companies are preferred.,N/A,1 week ago,2026-08-11T20:18:44.291Z
+60,MAYBE / REVIEW,Java Software Engineer,Phi Partners,Consulting,Remote,"35,000€ - 45,000€",Estimated,65,Poland (Remote),No,"• 100% Remote work
+• Capital markets fintech consulting","• Capital markets niche consulting
+• May involve legacy financial platforms
+• Detailed job description missing","Remote Java consulting position in capital markets. Decent match, but consulting model requires compensation review.",N/A,3 weeks ago,2026-08-11T20:18:49.980Z
+60,MAYBE / REVIEW,Java Software Engineer,KWAN,Consulting,Remote,"30,000€ - 38,000€",Estimated,60,Portugal (Remote),No,"• 100% Remote work from Portugal
+• Non-Spanish consultancy","• Portuguese consultancy rates tend to be below 40k€ target
+• Detailed job description missing","Remote Java consulting position in Portugal. Modality fits well, but salary expectations may not be met.",N/A,1 month ago,2026-08-11T20:18:44.291Z
+60,MAYBE / REVIEW,Backend Software Engineer (Digital Transformation),emagine,Consulting,Remote,"35,000€ - 45,000€",Estimated,65,Portugal (Remote),No,"• 100% Remote in Portugal/EU
+• Backend development focus","• European IT consultancy firm
+• Detailed job description missing",Remote backend opportunity with an international consultancy. Worth reviewing if rates match or exceed target thresholds.,N/A,1 week ago,2026-08-11T20:18:49.980Z
+55,MAYBE / REVIEW,Software Engineer Java (100% teletrabajo),knowmad mood,Consulting,Remote,"35,000€ - 42,000€",Estimated,60,Madrid (Remote),No,"• 100% Remote
+• Java software engineering role","• Spanish consultancy firm
+• Salary likely below 45k€ target
+• Detailed job description missing","Another remote Java listing from knowmad mood. Modality and tech match, but Spanish consultancy model is a drawback.",N/A,5 days ago,2026-08-11T20:18:49.980Z
+55,MAYBE / REVIEW,"Java Backend Developer | Spring Boot, Microservicios | Remoto",knowmad mood,Consulting,Remote,"35,000€ - 42,000€",Estimated,60,Madrid (Remote),No,"• 100% Remote
+• Exact stack match with Java, Spring Boot, Microservices","• Spanish consultancy company
+• Salary usually below candidate's 45k€ consultancy threshold
+• Detailed job description missing","Exact stack and remote work match, but being a Spanish consultancy makes it less attractive unless salary negotiations reach target.",N/A,3 weeks ago,2026-08-11T20:18:49.980Z
+55,MAYBE / REVIEW,Java Developer (CI/CD),Coforge,Consulting,Remote,"35,000€ - 42,000€",Estimated,60,Spain (Remote),No,"• 100% Remote in Spain
+• Emphasis on CI/CD DevOps practices alongside Java","• Global IT consultancy model
+• Estimated pay under 45k€ threshold for consulting
+• Detailed job description missing","Matches Java stack and candidate's remote requirement, but consultancy background and typical salary range lower interest.",N/A,1 week ago,2026-08-11T20:18:44.291Z
+55,MAYBE / REVIEW,Backend Engineer (Java/Spring Boot),METRICA,Consulting,Remote,"35,000€ - 42,000€",Estimated,60,Madrid (Remote),No,"• 100% Remote flexibility
+• Direct stack match with Java and Spring Boot","• Spanish consultancy firm (a stated red flag unless paying well above market)
+• Estimated salary may be under the 40k-45k target
+• Detailed job description missing","The core stack and remote modality match the candidate's technical profile well. However, because METRICA is a Spanish consultancy and salary may fall below target, it requires review.",N/A,1 month ago,2026-08-11T20:18:44.290Z
+55,MAYBE / REVIEW,Java/Spring Boot Backend Developer – Cassandra | 100% remoto,Qaracter - Beyond your Challenge,Consulting,Remote,"36,000€ - 42,000€",Estimated,60,Spain (Remote),No,"• 100% Remote in Spain
+• Java, Spring Boot, and NoSQL (Cassandra) exposure","• Spanish IT consultancy firm
+• Salary might fall slightly short of 45k€ consultancy threshold
+• Detailed job description missing","The technical stack matches candidate skills and it is fully remote. However, being a Spanish consultancy means it must be evaluated cautiously against salary expectations.",N/A,1 day ago,2026-08-11T20:18:44.290Z
+55,MAYBE / REVIEW,Backend Java Microservices Developer | Sector Bancario,Vermont Solutions,Consulting,Remote,"36,000€ - 42,000€",Estimated,60,Madrid (Remote),No,"• 100% Remote
+• Banking sector experience with Java Microservices","• Spanish consultancy firm
+• Pay likely under 45k€ threshold
+• Detailed job description missing","Strong technology and domain relevance, but operating through a Spanish IT consultancy lowers its alignment score.",N/A,3 weeks ago,2026-08-11T20:18:49.980Z
+50,MAYBE / REVIEW,Back-End Software Engineer,Santander,Scaleup,,"38,000€ - 45,000€",Estimated,60,Boadilla del Monte,No,"• Established enterprise backend environment
+• Java microservices stack","• Location in Boadilla del Monte typically mandates hybrid presence
+• Modality unconfirmed
+• Detailed job description missing","Enterprise backend role in banking. Worth checking remote policy, though Santander corporate hub usually mandates hybrid presence.",N/A,3 weeks ago,2026-08-11T20:18:58.667Z
+50,MAYBE / REVIEW,Back-End Software Engineer,Santander Consumer Finance Global Services,Scaleup,,"38,000€ - 45,000€",Estimated,60,Boadilla del Monte,No,"• Enterprise banking product experience
+• Fits backend Java background","• Location in Boadilla del Monte usually implies hybrid/onsite
+• Modality unconfirmed (null)
+• Detailed job description missing",Backend engineering role in Santander's global services hub. Needs confirmation whether 100% remote work is permitted before proceeding.,N/A,2 days ago,2026-08-11T20:18:58.667Z
+50,MAYBE / REVIEW,Software Backend Engineer,ING España&Portugal,Scaleup,Hybrid,"40,000€ - 48,000€",Estimated,65,Greater Madrid Metropolitan Area (Hybrid),No,"• Great tech culture for a bank
+• Modern Java, Spring Boot, cloud architecture","• Hybrid attendance in Greater Madrid Area required
+• Not 100% remote
+• Detailed job description missing","ING offers an excellent tech ecosystem and competitive pay, but requires hybrid office presence in Madrid. Review only if candidate considers hybrid.",N/A,1 month ago,2026-08-11T20:18:58.667Z
+50,MAYBE / REVIEW,Java Backend Engineer,METRICA,Consulting,Remote,"34,000€ - 40,000€",Estimated,60,Madrid (Remote),No,"• 100% Remote work
+• Backend Java stack","• Spanish consultancy
+• Posted 2 months ago (potentially stale posting)
+• Detailed job description missing","Fully remote Java position, but posted months ago by a Spanish consulting firm with estimated salary under desired target. Lower priority for review.",N/A,2 months ago,2026-08-11T20:18:44.291Z
+50,MAYBE / REVIEW,Programador/a Backend JAVA / Microservicios,METRICA,Consulting,Remote,"33,000€ - 38,000€",Estimated,55,Madrid (Remote),No,"• 100% Remote
+• Java microservices focus","• Spanish consultancy firm
+• Posted 3 months ago (likely closed/stale)
+• Detailed job description missing","Old listing from a Spanish consultancy. Stack matches, but age of posting and business model reduce recommendation rank.",N/A,3 months ago,2026-08-11T20:18:49.980Z
+45,MAYBE / REVIEW,Mid Level Backend Engineer (Java/Kotlin),Parser,Consulting,Hybrid,"38,000€ - 45,000€",Estimated,60,Madrid (Hybrid),No,"• Mid-level title matches ~3.5 years experience
+• Java/Kotlin stack","• Hybrid modality in Madrid
+• IT consultancy business model
+• Detailed job description missing","Mid-level stack fit, but hybrid modality and consultancy business model reduce its overall alignment score.",N/A,1 month ago,2026-08-11T20:18:58.667Z
+45,MAYBE / REVIEW,Software Engineer Microservices (m/f/d),SOFICO,SME,Hybrid,"35,000€ - 42,000€",Estimated,60,Madrid (Hybrid),No,• Microservices specialization matches candidate profile,"• Hybrid presence in Madrid
+• Salary slightly below product target
+• Detailed job description missing","Good microservices tech stack match, but hybrid modality lowers appeal against full remote opportunities.",N/A,2 weeks ago,2026-08-11T20:18:58.667Z
+45,MAYBE / REVIEW,Java Backend Engineer,BME | Bolsas y Mercados Españoles,Scaleup,Hybrid,"38,000€ - 45,000€",Estimated,65,Madrid (Hybrid),No,"• Financial market infrastructure domain
+• Solid Java backend stack","• Hybrid presence required in Madrid
+• Conflict with 100% remote preference
+• Detailed job description missing","Prestigious financial employer, but hybrid modality in Madrid conflicts with candidate's preference for full remote flexibility.",N/A,4 days ago,2026-08-11T20:18:58.667Z
+45,MAYBE / REVIEW,Backend Engineer,Freenow,Scaleup,Hybrid,"42,000€ - 52,000€",Estimated,70,Barcelona (Hybrid),No,"• Mobility scaleup product company
+• Java/Kotlin microservices stack, good salary","• Hybrid presence in Barcelona office
+• Candidate based in Madrid or seeking full remote
+• Detailed job description missing","Strong product engineering role with competitive salary, but hybrid requirement in Barcelona poses a location mismatch.",N/A,3 hours ago,2026-08-11T20:18:58.667Z
+35,REJECT,Backend Engineer JAVA / Spring Boot - HYBRID MADRID,UST,Consulting,Hybrid,"34,000€ - 40,000€",Estimated,55,Madrid,No,• Java and Spring Boot stack,"• Explicit Hybrid requirement in Madrid
+• Consultancy firm with typical below-target salaries
+• Detailed job description missing",Combines two main red flags: hybrid physical presence in Madrid and Spanish consulting environment with subpar target pay.,N/A,2 weeks ago,2026-08-11T20:18:58.667Z
+35,REJECT,Software Development Engineer II,Expedia Group,Scaleup,Onsite,"45,000€ - 55,000€",Estimated,70,Madrid (On-site),No,"• SDE II title perfectly fits mid-level experience
+• Top global product company with Java/AWS tech stack","• Mandatory Onsite requirement in Madrid
+• Violates 100% remote work preference
+• Detailed job description missing","Although the company and technical level are ideal, the mandatory onsite requirement in Madrid violates the core candidate preference for remote work.",N/A,2 hours ago,2026-08-11T20:18:58.666Z
+35,REJECT,Backend Software Engineer,Huspy,Startup,Onsite,"40,000€ - 50,000€",Estimated,65,Madrid (On-site),No,"• High growth real estate tech product
+• Good salary for mid-level engineer","• Mandatory Onsite presence in Madrid office
+• Violates remote work requirement
+• Detailed job description missing","Huspy is an attractive product startup, but compulsory onsite presence in Madrid conflicts directly with the candidate's remote requirement.",N/A,1 month ago,2026-08-11T20:18:58.666Z
+30,REJECT,Software Engineer III,Expedia Group,Scaleup,Onsite,"50,000€ - 65,000€",Estimated,75,Madrid (On-site),No,"• Global product tech company
+• Competitive salary","• Mandatory Onsite in Madrid
+• SE III usually demands 5+ years experience
+• Detailed job description missing",Higher seniority title paired with mandatory onsite working in Madrid makes this an unsuitable match against remote candidate preferences.,N/A,6 days ago,2026-08-11T20:18:58.667Z
+30,REJECT,Java Software Engineer (Remote in Scotland),ATPCO,SME,Remote,"40,000£ - 52,000£",Estimated,65,"Scotland, United Kingdom (Remote)",No,• Java tech stack alignment,"• Strict location restriction to Scotland (UK resident required)
+• Candidate is based in Spain
+• Detailed job description missing",Explicit local residency requirement in Scotland makes this role geographically unsuitable despite being remote within the UK.,N/A,2 weeks ago,2026-08-11T20:18:44.291Z
+15,REJECT,Intermediate Java Software Engineer,Version 1,Consulting,,"45,000£ - 55,000£",Estimated,65,London,No,• Intermediate level matches ~3.5 years experience,"• London location without confirmed full remote status
+• UK consulting company
+• Detailed job description missing",Located in London without guaranteed remote arrangement. Onsite/hybrid requirements outside Spain/Switzerland are red flags.,N/A,2 weeks ago,2026-08-11T20:18:49.980Z
+10,REJECT,Junior / Mid-level Java Software Developer,Tricast Ltd,SME,Hybrid,"20,000€ - 28,000€",Estimated,40,Győr (Hybrid),No,• Fits junior-mid Java experience,"• Hybrid role located in Győr, Hungary
+• Non-remote outside Spain/Switzerland is a strict red flag
+• Detailed job description missing",Hybrid position in Hungary. Violates the candidate's core preference for 100% remote work or Switzerland relocation.,N/A,2 months ago,2026-08-11T20:18:49.980Z
+10,REJECT,Software Engineer (Java),FindingVega,Consulting,Hybrid,"45,000€ - 55,000€",Estimated,60,Dublin (Hybrid),No,• Java stack role,"• Hybrid presence required in Dublin, Ireland
+• Non-remote outside Spain/Switzerland is a strict red flag
+• Detailed job description missing",Hybrid requirement in Dublin violates candidate's strict preference for 100% remote work or relocation to Switzerland exclusively.,N/A,2 weeks ago,2026-08-11T20:18:49.980Z
+0,REJECT,Senior Accountant - Controller (FR),idealista,Scaleup,Hybrid,"35,000€ - 45,000€",Estimated,10,Madrid (Hybrid),No,• Hybrid model in Madrid,"• Finance/accounting domain completely unrelated to software development
+• Detailed job description missing","This role is for a senior financial accountant and controller, completely outside the software engineering domain. It offers zero technical alignment with the candidate's Java background.",N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Chargé(e) de relation client / prospection (français natif/bilingue),idealista,Scaleup,,"22,000€ - 28,000€",Estimated,10,Madrid,No,• Established product company,"• Completely unrelated non-technical customer service/sales role
+• No software engineering skills involved
+• Detailed job description missing","This posting is for a French customer relationship and sales role, which does not align with a backend software engineering career. It is completely outside the candidate's core stack and profile.",N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Atención al cliente con Italiano para Fines de Semana y Festivos,idealista,Scaleup,,"18,000€ - 22,000€",Estimated,10,Madrid,No,• Well-known company,"• Non-technical customer support position
+• Requires Italian language skills and weekend shifts
+• Detailed job description missing","This position is a part-time weekend customer support role requiring Italian, having no relevance to backend Java development. It is an immediate rejection based on profile mismatch.",N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Gestor de Hipotecas - Barcelona,idealista,Scaleup,Hybrid,"24,000€ - 30,000€",Estimated,10,Barcelona (Hybrid),No,• Hybrid position in Barcelona,"• Non-technical mortgage management role
+• Detailed job description missing","Mortgage manager posting in Barcelona for idealista's mortgage branch, having no technical overlap with Java development. Reject immediately.",N/A,1 week ago,2026-08-11T20:05:08.172Z
+0,REJECT,Key Account Manager (italian market),idealista,Scaleup,Hybrid,"30,000€ - 40,000€",Estimated,10,Madrid (Hybrid),No,• Account management responsibility,"• Sales management position
+• Focus on Italian market sales
+• Detailed job description missing","This position is for an account manager focusing on the Italian sales market, which does not involve any backend engineering. It is rejected.",N/A,2 weeks ago,2026-08-11T20:05:08.172Z
+0,REJECT,Gestor Hipotecario - Málaga,idealista,Scaleup,Hybrid,"24,000€ - 30,000€",Estimated,10,Málaga (Hybrid),No,• Hybrid modality,"• Banking/mortgage advisor role
+• Non-technical domain
+• Detailed job description missing",This mortgage manager posting in Málaga belongs to financial operations rather than software development. It has zero match score.,N/A,1 week ago,2026-08-11T20:05:08.172Z
+0,REJECT,Atención al Cliente bilingüe italiano - part time,idealista,Scaleup,,"12,000€ - 16,000€",Estimated,10,Madrid,No,• Part-time availability,"• Non-technical customer service job
+• Requires bilingual Italian
+• Detailed job description missing","A part-time customer support vacancy requiring Italian, completely irrelevant to a software engineer profile. Rejection is clear.",N/A,1 week ago,2026-08-11T20:05:08.172Z
+0,REJECT,Comercial online,idealista,Scaleup,Hybrid,"22,000€ - 28,000€",Estimated,10,Málaga (Hybrid),No,• Hybrid work model in Málaga,"• Sales role
+• Non-technical position
+• Detailed job description missing","This posting is for an online sales representative in Málaga, completely distinct from backend engineering. It is an immediate reject.",N/A,2 weeks ago,2026-08-11T20:05:08.171Z
+0,REJECT,Chargé(e) de relation client/prospection (français natif/bilingue),idealista,Scaleup,,"22,000€ - 28,000€",Estimated,10,Madrid,No,• Product company,"• Customer relations and sales position
+• Requires native French
+• Detailed job description missing",Duplicate scraping entry for a sales/customer management posting in French. It has no overlap with software development.,N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Fotógrafo/a Freelance - Mahón,idealista,Scaleup,Onsite,"20,000€ - 25,000€",Estimated,5,Madrid (On-site),No,• Freelance role,"• Onsite photography work in Menorca
+• Non-technical
+• Detailed job description missing",This vacancy is for local photography work in Mahón and has zero technical or professional relevance to a Java developer. It should be rejected.,N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Fotógrafo/a Freelance - Figueres,idealista,Scaleup,Onsite,"20,000€ - 25,000€",Estimated,5,Madrid (On-site),No,• Local freelance work,"• Onsite photography work
+• Non-engineering position
+• Detailed job description missing","This is a real estate photography vacancy in Figueres, entirely unrelated to software engineering. It must be rejected.",N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Diseñador/a de Virtual Home Staging - Freelance,idealista,Scaleup,Remote,"22,000€ - 28,000€",Estimated,10,Madrid (Remote),No,• 100% remote option,"• 3D/interior design role
+• Freelance model without engineering focus
+• Detailed job description missing","Though remote, this role centers on virtual home staging and 3D visual design rather than software engineering. It holds zero technical alignment with Java/Spring Boot.",N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Fotógrafo/a Freelance - Huesca,idealista,Scaleup,Onsite,"20,000€ - 25,000€",Estimated,5,Madrid (On-site),No,• Freelance flexibility,"• Photography role with physical travel in Huesca
+• Non-technical position
+• Detailed job description missing","This offer is for local real estate photography in Huesca, completely distinct from IT backend development. It does not match the candidate's preferences or skills.",N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Creative Designer (français natif/bilingue),idealista,Scaleup,Hybrid,"28,000€ - 35,000€",Estimated,10,Madrid (Hybrid),No,• Creative role in product design team,"• Design focus rather than backend engineering
+• Requires native French
+• Detailed job description missing","This position focuses on creative/graphic design and requires French language fluency, which does not match a Java backend engineer. It holds no career relevance.",N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Gestor Hipotecario – Madrid,idealista,Scaleup,Hybrid,"24,000€ - 30,000€",Estimated,10,Madrid (Hybrid),No,• Hybrid work option,"• Mortgage management sales/operations position
+• No software development tasks
+• Detailed job description missing","This is a mortgage management operations role within real estate services, irrelevant to tech and software engineering. It should be filtered out immediately.",N/A,1 week ago,2026-08-11T20:05:08.171Z
+0,REJECT,Atención al cliente con Portugués para Fines de Semana y Festivos (Madrid),idealista,Scaleup,Onsite,"18,000€ - 22,000€",Estimated,5,Madrid (On-site),No,• Located in Madrid,"• Onsite weekend customer support position
+• Requires Portuguese fluency
+• Detailed job description missing","Onsite weekend support job requiring Portuguese language skills, completely outside software development. Rejection is straightforward.",N/A,2 weeks ago,2026-08-11T20:05:08.172Z
+0,REJECT,Agente venta consultiva - AvaiBook,idealista,Scaleup,Hybrid,"22,000€ - 28,000€",Estimated,10,Madrid (Hybrid),No,• Hybrid work scheme,"• Consultative sales role for SaaS tool
+• Non-engineering position
+• Detailed job description missing","This is a consultative sales position for idealista's AvaiBook product, completely non-technical. It does not suit the candidate.",N/A,2 weeks ago,2026-08-11T20:05:08.172Z
+0,REJECT,Qualification de marché (français natif/bilingue),idealista,Scaleup,Hybrid,"22,000€ - 26,000€",Estimated,10,Madrid (Hybrid),No,• Hybrid modality in Madrid,"• Market qualification / lead research position
+• Non-technical role
+• Detailed job description missing","Market qualification/lead generation job requiring French, which does not map to software development. It is an immediate rejection.",N/A,2 weeks ago,2026-08-11T20:05:08.172Z
+0,REJECT,People & Talent (intern),idealista,Scaleup,Hybrid,"10,000€ - 14,000€",Estimated,10,Madrid (Hybrid),No,• Talent acquisition exposure,"• HR internship position
+• Low salary and inappropriate experience level
+• Detailed job description missing","An HR/Talent internship, irrelevant both in domain and seniority level for a semisenior software engineer with ~3.5 years of experience.",N/A,1 week ago,2026-08-11T20:05:08.172Z
+92,HIGHLY INTERESTED,Software Engineer (Java),Revolut,Scaleup,Remote,"90,000€",Real,80,Poland,Yes,"• Top product fintech company
+• Tech stack matches perfectly: Java 17/21, GCP, Kubernetes, PostgreSQL
+• Competitive salary range (36K-40K PLN/month)",• Requires living in Poland,"Exceptional match for tech stack and product focus, though the location is restricted to Poland.",https://www.linkedin.com/jobs/view/3083004481/,Reposted 5 days ago,2026-08-14T19:37:30.668Z
+90,HIGHLY INTERESTED,Backend Software Engineer,Huspy,Scaleup,Remote,"45,000€",Estimated,75,United Kingdom,Yes,"• Tech stack matches: Kotlin/Spring Boot, AWS
+• Explicitly offers remote anywhere in the EU
+• Product company with strong backing","• Senior engineering experience requested, though candidate has solid semisenior background","Strong match due to EU-wide remote option, relevant tech stack (Spring Boot/AWS), and product company context.",https://www.linkedin.com/jobs/view/4399604575/,4 months ago,2026-08-14T19:36:32.632Z
+90,HIGHLY INTERESTED,Java Software Engineer (80%-100%) - Bern,Code Compass 🧭,Startup,Remote,"135,000 CHF",Real,75,"Bern, Berne, Switzerland",Yes,"• Modern Java (17/21) and Spring Boot 3 stack
+• Remote working options in Switzerland, high salary","• Mentions frontend tech (React) in passing, though core is Java backend","An exceptional match featuring modern Java 17/21, Spring Boot 3, AWS, Docker, and remote flexibility in Switzerland.",https://www.linkedin.com/jobs/view/4451238250/,6 hours ago,2026-08-14T19:40:13.979Z
+90,HIGHLY INTERESTED,Back-End Software Engineer,Santander Consumer Finance Global Services,Scaleup,Remote,"45,000€",Estimated,75,"Boadilla del Monte, Community of Madrid, Spain",Yes,"• Greenfield global platform with Java, Spring Boot, AWS, and Kotlin
+• Fully remote option based out of Spain",• Banking sector bureaucracy risk,"This role fits the stack, experience level, and allows remote work from Spain for an international initiative.",https://www.linkedin.com/jobs/view/4424108440/,Reposted 5 days ago,2026-08-14T19:39:17.091Z
+90,HIGHLY INTERESTED,Software Engineer (Java),Revolut,Scaleup,Remote,"55,000€",Estimated,80,Greece,Yes,"• Top tier product scaleup
+• Java 17/21, Microservices, GCP/Cloud stack
+• Remote friendly",• Highly competitive interview process,"This role matches the desired tech stack, product company preference, and remote requirements exceptionally well.",https://www.linkedin.com/jobs/view/4324485197/,Reposted 4 days ago,2026-08-14T19:38:11.319Z
+85,HIGHLY INTERESTED,Senior Backend Software Engineer,Trading 212,Scaleup,Remote,"65,000€",Estimated,70,Spain,Yes,"• Modern high-performance stack (Java 21, Spring, Kafka, AWS)
+• Remote working option from Spain",• Senior title requirement for 3.5 years experience,"Great tech stack and product company nature with remote allowance in Spain, making it a strong target despite the senior tag.",https://www.linkedin.com/jobs/view/4369086813/,6 months ago,2026-08-14T19:38:28.048Z
+85,HIGHLY INTERESTED,Backend Developer,TMS Technology,Scaleup,Hybrid,120K CHF/yr,Real,75,"Zurich, Switzerland",Yes,"• Swiss RegTech product company
+• Strong Java, Kafka, Kubernetes, and Docker stack",• Hybrid requirement (3 days in office in Zurich),"An excellent match for Java, Kafka, and Kubernetes expertise in a Swiss product company, aligning with relocation goals.",https://www.linkedin.com/jobs/view/4452433963/,3 days ago,2026-08-14T19:39:38.724Z
+85,HIGHLY INTERESTED,Software Engineer,Crypto Finance Group,Scaleup,Hybrid,"115,000 CHF",Estimated,70,"Zurich, Switzerland",Yes,"• Fintech/crypto backed by Deutsche Börse in Zurich
+• Java and Spring Boot backend stack","• Hybrid work in Zurich
+• Requires pre-existing Swiss work permit or EU/EFTA citizenship","Matches Java Spring Boot background and offers great financial tech exposure in Zurich, fitting EU citizenship rules.",https://www.linkedin.com/jobs/view/4453074088/,2 days ago,2026-08-14T19:40:18.738Z
+85,HIGHLY INTERESTED,Backend Developer,TMS Technology,Scaleup,Hybrid,"120,000 CHF",Real,75,"Fribourg, Switzerland",Yes,"• Swiss RegTech product company
+• Strong Java, Kafka, and Kubernetes stack",• Hybrid: 3 days in office in Fribourg,"Matches the candidate's exact core stack (Java, Kafka, Kubernetes) at a prominent Swiss product company.",https://www.linkedin.com/jobs/view/4452438898/,3 days ago,2026-08-14T19:40:20.797Z
+85,HIGHLY INTERESTED,Senior Software Engineer,Appfire,Scaleup,Remote,"58,000€",Estimated,70,"Warsaw, Mazowieckie, Poland",Yes,"• Remote from Poland (implies possible remote EU setups)
+• Advanced Java, Spring, DDD, Kafka, and AWS SaaS stack
+• Product company with high engineering standards",• Senior engineering title,"Excellent technical stack aligning precisely with candidate skills, though checking specific country remote eligibility is needed.",https://www.linkedin.com/jobs/view/4446756251/,2 weeks ago,2026-08-14T19:39:07.695Z
+85,HIGHLY INTERESTED,Software Development Engineer 80-100% (m/w/d),Abacus Research AG,SME,Hybrid,"95,000 CHF",Estimated,70,"Wittenbach, St Gallen, Switzerland",Yes,"• Located in Switzerland, matching relocation preferences
+• Uses Java stack
+• Product company environment","• Requires German language proficiency context implicitly through German JD
+• Hybrid model might require physical presence in Wittenbach",This is a great match for a product company role in Switzerland using Java. The main hurdle is the German language requirement implied by the posting.,https://www.linkedin.com/jobs/view/4354564166/,Reposted 5 days ago,2026-08-14T19:41:58.073Z
+80,HIGHLY INTERESTED,Senior Software Engineer,Pearson,Scaleup,Remote,"55,000€",Estimated,75,Poland,Yes,"• Fully remote from Spain option available
+• Global product learning company
+• Java, Spring, and modern modernization focus","• Senior role level for 3.5 years experience
+• Mentions frontend familiarity preferred","Pearson offers a full remote position in Spain with modern Java modernization tasks, making it a great target despite senior labeling.",https://www.linkedin.com/jobs/view/4437064198/,Reposted 2 weeks ago,2026-08-14T19:38:59.707Z
+80,HIGHLY INTERESTED,"Software Engineer II, Backend (Collections)",Affirm,Scaleup,Remote,"55,000€",Estimated,70,Spain (Remote),No,"• Product company with great compensation
+• Remote in Spain",• Competitive hiring process,"Matches all candidate criteria including remote setup, product environment, and appropriate experience level.",N/A,3 weeks ago,2026-08-14T19:39:13.162Z
+80,HIGHLY INTERESTED,Backend Engineer,Tinybird,Startup,Remote,"55,000€",Estimated,70,Greater Madrid Metropolitan Area (Remote),No,"• Product startup based around Madrid/remote Spain
+• High engineering standards and modern stack",• May require specialized data-heavy backend skills,Exciting startup offering remote work from Madrid/Spain with strong compensation potential.,N/A,2 weeks ago,2026-08-14T19:39:10.069Z
+80,HIGHLY INTERESTED,"Software Engineer II , Backend, (Furnishing Platform)",Affirm,Scaleup,Remote,"55,000€",Estimated,70,Spain (Remote),No,"• Product company
+• Fully remote in Spain
+• Mid/Semisenior level fits experience",• Rigorous tech interview process,Affirm is a premier product company offering remote work in Spain at a suitable seniority level.,N/A,1 week ago,2026-08-14T19:39:13.162Z
+75,MAYBE / REVIEW,Mid-Level Backend Developer,Genki,Startup,Remote,"42,000€",Estimated,75,Spain (Remote),No,"• Mid-level position matches experience
+• Remote from Spain",• Limited info available without full JD,"Matches mid-level seniority and remote Spain criteria nicely, pending full technical stack verification.",N/A,3 months ago,2026-08-14T19:39:10.069Z
+75,MAYBE / REVIEW,Senior Backend Engineer (m/f/d),Circula,Scaleup,Remote,"60,000€",Estimated,60,Germany (Remote),No,"• Remote from Germany/Europe
+• Scaleup product company","• Senior role level
+• Missing exact stack details","A product scaleup offering remote flexibility, but the senior title may be a stretch for 3.5 years experience.",N/A,1 week ago,2026-08-14T19:38:09.958Z
+75,HIGHLY INTERESTED,Senior Backend Engineer,Qualifyze,Scaleup,Remote,"48,000€",Estimated,65,Barcelona (Remote),No,"• Remote modality in Spain
+• Product scaleup environment","• Senior title might require more than 3.5 years experience
+• Detailed JD missing","A promising remote scaleup role in Spain, though the senior title requires verifying if they accept mid-level experience.",N/A,2 weeks ago,2026-08-14T19:39:10.069Z
+75,MAYBE / REVIEW,Senior Java Backend Engineer,Nexthink,Scaleup,Hybrid,"115,000 CHF",Estimated,60,"Lausanne, Vaud, Switzerland",Yes,"• Product company in Switzerland (Lausanne)
+• Java, Microservices, Kafka, AWS stack alignment","• Requires 8+ years of experience (Senior level)
+• Hybrid modality in Lausanne","Technically a fantastic match for Java, Kafka, and AWS in a Swiss product company, but the 8+ years seniority requirement is high for a 3.5-year developer.",https://www.linkedin.com/jobs/view/4441486345/,Reposted 1 week ago,2026-08-14T19:40:55.720Z
+75,MAYBE / REVIEW,"Senior Software Engineer, Core Experiences - Zurich, Switzerland",Speechify,Scaleup,Remote,"115,000 CHF",Estimated,65,"Zurich, Zurich, Switzerland",Yes,"• Product scaleup company
+• Remote culture with Switzerland positioning","• Senior title requires more experience than current level
+• Prefers Kotlin Multiplatform (though Java experience is accepted)","A product scaleup offering remote/Switzerland setup with backend work, though it leans senior and prefers Kotlin.",https://www.linkedin.com/jobs/view/4452691606/,3 weeks ago,2026-08-14T19:41:19.407Z
+75,MAYBE / REVIEW,"Senior Software Engineer, Core Experiences - Geneva, Switzerland",Speechify,Scaleup,Remote,"115,000 CHF",Estimated,65,"Geneva, Geneva, Switzerland",Yes,"• Product scaleup
+• Remote culture with Swiss location option","• Senior title
+• Kotlin Multiplatform stack preference","Great remote/Swiss product scaleup opportunity, though senior level and Kotlin preference apply.",https://www.linkedin.com/jobs/view/4452677833/,3 weeks ago,2026-08-14T19:41:41.742Z
+75,MAYBE / REVIEW,"Senior Software Engineer, Core Experiences - Lausanne, Switzerland",Speechify,Scaleup,Remote,"115,000 CHF",Estimated,65,"Lausanne, Vaud, Switzerland",Yes,"• Product scaleup
+• Remote setup with Switzerland presence","• Senior role level
+• Kotlin stack preference","Matches remote and Swiss preferences, though senior title and Kotlin stack are slight mismatches.",https://www.linkedin.com/jobs/view/4452684761/,3 weeks ago,2026-08-14T19:41:44.385Z
+75,MAYBE / REVIEW,Software Developer Java (80-100%) m/w,yellowshark® AG,Consulting,Hybrid,"90,000 CHF",Estimated,65,"Root, Lucerne, Switzerland",Yes,"• Java and Spring stack aligns perfectly
+• Located in Switzerland","• It is handled via an agency/recruitment firm rather than direct product company
+• German language skills likely needed","The technical stack matches well with modern Java and Spring, but it is channeled through a consultancy/agency in Switzerland, which requires careful review regarding actual placement client and language barriers.",https://www.linkedin.com/jobs/view/4440147967/,Reposted 3 days ago,2026-08-14T19:42:24.817Z
+75,MAYBE / REVIEW,"Software Engineer II, Geo",Google,Scaleup,On-site,"130,000 CHF",Real,20,Zurich (On-site),No,"• Based in Switzerland with high compensation
+• Top tech company","• On-site requirement in Zurich
+• Extremely difficult interview process","Meets the Swiss relocation and compensation criteria, but requires strict on-site work and has a notoriously difficult interview loop.",N/A,2 days ago,2026-08-14T19:39:23.791Z
+75,MAYBE / REVIEW,"Senior Java Engineer, Retail (f/m/x)",AUTO1 Group,Scaleup,Remote,"60,000€",Estimated,65,Berlin (Remote),No,"• European product scaleup
+• Remote flexibility",• Senior role scope,"Good product scaleup environment with remote options, though leaning senior.",N/A,10 hours ago,2026-08-14T19:38:43.006Z
+75,MAYBE / REVIEW,Senior Backend Software Engineer (Java),Infinni,Startup,Remote,"45,000€",Estimated,65,"Canary Islands, Spain (Remote)",No,"• Remote from Spain
+• Java backend focus","• Full job description missing
+• Senior title might require more than 3.5 years experience","The role is remote from Spain which fits preferences, but the lack of a job description and senior designation require a manual review.",N/A,2 weeks ago,2026-08-14T19:38:09.957Z
+75,MAYBE / REVIEW,Senior Backend Engineer (Java),Benifex,Scaleup,Remote,"82,500€",Real,80,United Kingdom,Yes,"• High salary range (£75k-90k)
+• Tech stack includes Java, Spring Boot, AWS/GCP","• Requires residency in the UK or Ireland
+• Senior role expectations","Exceptional compensation and product company nature, but strict UK/Ireland residency requirement prevents easy application.",https://www.linkedin.com/jobs/view/4381748623/,Reposted 1 month ago,2026-08-14T19:37:11.477Z
+75,MAYBE / REVIEW,Java Software Engineer,Revolut,Scaleup,Remote,"50,000€",Estimated,60,"London Area, United Kingdom (Remote)",No,"• Product company with modern Java tech stack
+• Remote modality aligns with preferences","• Detailed job description missing
+• Location says London Area, United Kingdom","Revolut is a prime product company target, but without a full JD, exact requirements and remote eligibility cannot be verified. Interview difficulty is expected to be high.",N/A,1 day ago,2026-08-14T19:36:32.630Z
+70,MAYBE / REVIEW,Software Engineer - Marketing,Phorest Software,Scaleup,Remote,"50,000€",Estimated,70,"Northern Ireland, United Kingdom (Remote)",No,"• Product scaleup environment
+• Remote in Northern Ireland/UK",• Marketing tech focus,"Decent product company fit with remote options, though location scope is restricted.",N/A,1 month ago,2026-08-14T19:38:43.006Z
+70,MAYBE / REVIEW,Java Backend Developer (f/m/x),Emporix,Scaleup,Remote,"40,000€",Real,70,Poland,Yes,"• Java, Spring Boot, Microservices stack
+• Remote from Poland with flexible setup","• Requires living in Poland with monthly office visits in Gliwice
+• Uses GCP instead of AWS","Good tech stack and product focus, but requires living in Poland and occasional office visits, which contradicts the Spain/Switzerland preference.",https://www.linkedin.com/jobs/view/4451165979/,4 days ago,2026-08-14T19:37:04.574Z
+70,MAYBE / REVIEW,Software Engineer (m/f/d),Hogrefe Digital Solutions,SME,Remote,"50,000€",Estimated,70,Göttingen (Remote),No,"• Digital solutions SME in Germany
+• Remote modality",• German language requirements likely,"Solid mid-level profile fit, but regional language barriers may exist.",N/A,3 days ago,2026-08-14T19:38:43.006Z
+70,MAYBE / REVIEW,Senior Backend Engineer Mass Market Products (MMP),Swisscom,SME,,"110,000 CHF",Estimated,65,"Zurich, Zurich, Switzerland",Yes,"• Swiss company with cloud-native AWS/Kubernetes stack
+• Java/Kotlin backend exposure","• Senior individual contributor title
+• Mentions legacy transition from Windows/IIS","Solid Swiss tech environment with Java and AWS, though a senior title and some legacy migration elements are present.",https://www.linkedin.com/jobs/view/4454084904/,1 day ago,2026-08-14T19:41:00.087Z
+70,MAYBE / REVIEW,"Software Engineer III, Search Serving Infrastructure",Google,Scaleup,Onsite,"150,000 CHF",Estimated,20,"Zurich, Zurich, Switzerland",Yes,"• Top tier product company in Zurich, Switzerland
+• Unmatched compensation and resume value","• Extremely rigorous interview process with very low success probability for 3.5 YoE
+• Not strictly Java Spring Boot ecosystem focused (uses C++/Java/Go generalist infrastructure)","Google is an elite product company in Switzerland, but the interview difficulty is extremely high and the tech stack is broader systems engineering rather than pure Spring Boot.",https://www.linkedin.com/jobs/view/4442205944/,Reposted 3 days ago,2026-08-14T19:42:27.533Z
+70,MAYBE / REVIEW,"Software Engineer, Data Infrastructure & Acquisition - Zurich, Switzerland",Speechify,Scaleup,Remote,"100,000 CHF",Estimated,65,Zurich (Remote),No,"• Product startup/scaleup in Switzerland
+• Remote modality offered","• Full JD is not attached for this specific listing
+• Specific backend languages and requirements are unconfirmed","It matches the remote/Switzerland criteria and product company preference, but lacks the detailed description to confirm stack alignment.",N/A,3 weeks ago,2026-08-14T19:40:28.552Z
+70,MAYBE / REVIEW,Backend Developer,Terra,Startup,Remote,"42,000€",Estimated,70,Bilbao (Remote),No,• Remote from Bilbao/Spain,• Details sparse,"Remote startup role in Spain, meets basic parameters for review.",N/A,1 week ago,2026-08-14T19:39:10.069Z
+70,MAYBE / REVIEW,Back End Developer,BJAK,Scaleup,Remote,"50,000€",Estimated,70,Ireland (Remote),No,"• Remote Ireland setup
+• Scaleup environment",• Cross-border employment logistics,"Product scaleup offering remote work, worth reviewing for backend fit.",N/A,1 day ago,2026-08-14T19:38:43.006Z
+70,MAYBE / REVIEW,(Senior) Java Developer (m/f/d),Chrono24,Scaleup,Remote,"60,000€",Estimated,65,Germany (Remote),No,"• Product scaleup company
+• Remote within Germany","• Senior title might require more than 3.5 years experience
+• Usually restricted to residency in Germany","Great product company, but senior scope and Germany residency requirements make it a secondary option.",N/A,2 weeks ago,2026-08-14T19:36:32.631Z
+70,MAYBE / REVIEW,Senior Java Engineer (Core),Hazelcast,Scaleup,Remote,"70,000€",Estimated,50,United Kingdom,Yes,"• Remote from UK (relocation or cross-border checks needed)
+• Deep core Java distributed systems work","• Strictly senior level core runtime engineering
+• High technical interview complexity","It offers fascinating core Java work, but the senior level and UK remote scope might present contract/location friction.",https://www.linkedin.com/jobs/view/4382413800/,Reposted 1 day ago,2026-08-14T19:38:25.706Z
+65,MAYBE / REVIEW,"Backend Engineer (Java-GenAI) - (remote, 40-45k)",SQUAD Technology Solutions,Consulting,Remote,"42,500€",Estimated,70,Spain (Remote),No,"• Java focus within salary range
+• Remote in Spain","• Consultancy firm
+• GenAI buzzword heavy","A consulting role that meets the bottom boundary of salary expectations and features Java, but carries consultancy caveats.",N/A,1 month ago,2026-08-14T19:39:13.162Z
+65,MAYBE / REVIEW,"Software Engineer II, YouTube, Streaming Applications",Google,Scaleup,On-site,"140,000 CHF",Estimated,20,"Zurich, Zurich, Switzerland",Yes,"• YouTube data streaming team uses Java and Kafka
+• High compensation in Zurich","• On-site in Zurich
+• Intense algorithm and system design interview loop","Matches tech stack (Java/Kafka) and Swiss location preferences, but features extremely rigorous Google interviews and on-site rules.",https://www.linkedin.com/jobs/view/4450999786/,4 days ago,2026-08-14T19:40:09.117Z
+65,MAYBE / REVIEW,Senior Software Engineer 80-100%,TWINT,Scaleup,Hybrid,"110,000 CHF",Estimated,60,"Zurich, Switzerland (Hybrid)",No,"• Swiss-based product company
+• Hybrid model in Zurich","• Senior title requires more than 3.5 years of experience
+• Detailed JD missing to verify exact tech stack","Although it's a great Swiss product company, the senior level requirement and missing JD make it a stretch for a semisenior profile.",N/A,3 weeks ago,2026-08-14T19:40:28.552Z
+65,MAYBE / REVIEW,Senior Java Engineer,BNB Chain,Startup,Remote,"75,000€",Estimated,50,Ae (Remote),No,"• Web3/crypto startup remote
+• High salary potential","• Senior level
+• Crypto domain specific","High-paying remote startup, but senior designation and crypto domain might not align.",N/A,19 hours ago,2026-08-14T19:38:43.006Z
+65,MAYBE / REVIEW,Software Engineer II,The Trade Desk,Scaleup,,"55,000€",Estimated,70,Madrid,No,• Top product scaleup in Madrid,• Modality unspecified in snippet,"Great product company match for level and salary, but remote modality needs confirmation.",N/A,4 days ago,2026-08-14T19:39:10.069Z
+65,MAYBE / REVIEW,Senior Java Engineer (m/f/d),Redcare Pharmacy,Scaleup,Remote,"65,000€",Estimated,75,"Berlin, Berlin, Germany",Yes,"• Java, Spring Boot tech stack
+• Remote within Germany/EU terms mentioned","• Senior title
+• Regular team anchor days in Berlin office","Solid tech stack and e-commerce leader, but requires occasional physical presence in Berlin.",https://www.linkedin.com/jobs/view/4450136631/,2 days ago,2026-08-14T19:37:38.607Z
+65,REJECT,Senior Backend Software Engineer,Too Good To Go,Scaleup,Hybrid,"65,000€",Estimated,65,"London, England, United Kingdom",Yes,"• Certified B Corporation product scaleup
+• Java 25, Spring Boot, AWS stack","• Hybrid setup tied to London hub
+• Senior requirement","Although the tech stack and mission are great, the hybrid London requirement clashes with remote-from-Spain preferences.",https://www.linkedin.com/jobs/view/4451671904/,3 days ago,2026-08-14T19:38:23.071Z
+65,MAYBE / REVIEW,Java Software Engineer,Scale Tech,Startup,Remote,"40,000€",Estimated,70,"Vilniaus rajonas, Vilniaus, Lithuania",Yes,"• Java, Spring Boot, WebFlux, Kafka stack
+• Remote work environment",• Location in Lithuania with unspecified EU remote policy,"Technically a very strong match for stack, but location context needs verification.",https://www.linkedin.com/jobs/view/4453643354/,3 weeks ago,2026-08-14T19:37:52.499Z
+65,MAYBE / REVIEW,Software Development Engineer- Remote,BeyondTrust,Scaleup,Remote,"55,000€",Estimated,65,United Kingdom (Remote),No,"• Product software company
+• Remote modality","• Restricted to United Kingdom residents
+• Missing detailed JD","Good product company, but typically requires UK residency which candidate does not have.",N/A,20 hours ago,2026-08-14T19:36:32.631Z
+60,MAYBE / REVIEW,"Senior Java / Spring Engineer (80-100%, m/f/d)",Mimacom,Consulting,Hybrid,"95,000 CHF",Estimated,65,"Bern, Berne, Switzerland",Yes,"• Modern Java, Spring Boot, Kafka, Docker, Kubernetes, AWS stack
+• Swiss company location","• Mimacom is an agile software consultancy/services provider
+• Senior title requirement","Stack alignment is near perfect (Java, Spring Boot, Kafka, AWS, Docker), but it is a consulting company and requires senior experience.",https://www.linkedin.com/jobs/view/4449834560/,3 days ago,2026-08-14T19:41:50.004Z
+60,MAYBE / REVIEW,Software Engineer,Pictet Group,Scaleup,On-site,"110,000 CHF",Estimated,60,"Geneva, Geneva, Switzerland",Yes,"• Prestigious financial institution in Geneva, Switzerland
+• Strong impact on sustainability data tools","• Requires React, TypeScript, and Python backend (not Java/Spring Boot)
+• On-site requirement in Geneva","While a premier Swiss employer, the tech stack requires React and Python rather than Java and Spring Boot.",https://www.linkedin.com/jobs/view/4452925956/,1 day ago,2026-08-14T19:41:27.958Z
+60,REJECT,Software Engineer II,Tripadvisor,Scaleup,Hybrid,"60,000€",Estimated,70,"London, England, United Kingdom",Yes,"• Great product company brand
+• Java and AWS stack","• Hybrid model requiring proximity to London office
+• No relocation to Switzerland mentioned","The role requires physical presence/hybrid setup near London, violating the candidate's remote or Switzerland-only relocation policy.",https://www.linkedin.com/jobs/view/4425859766/,Reposted 2 days ago,2026-08-14T19:38:14.803Z
+60,REJECT,Senior Backend + Infrastructure Engineer (Platform),Soda,Startup,Remote,"65,000€",Estimated,55,United Kingdom (Remote),No,• Remote UK,"• Heavy infrastructure/DevOps focus
+• Senior level","Role is too infrastructure/DevOps focused, which the candidate explicitly avoids.",N/A,3 days ago,2026-08-14T19:38:43.006Z
+60,MAYBE / REVIEW,Product Engineer,Swissquote,Scaleup,,"95,000 CHF",Estimated,65,Gland,No,"• Swiss company (relocation or local match)
+• Product company environment","• No full job description provided
+• Exact modality and tech stack are unknown","The job is at a desirable Swiss product company, but lacks a full description to confirm the specific tech stack and modality.",N/A,2 hours ago,2026-08-14T19:40:28.552Z
+60,MAYBE / REVIEW,Software Engineer,The Flex,Startup,Remote,"40,000€",Estimated,65,Spain (Remote),No,• Remote in Spain,"• Missing JD details
+• Lower end of desired salary","Remote startup position in Spain, but requires further investigation due to lack of tech stack specifics.",N/A,2 months ago,2026-08-14T19:39:13.162Z
+60,REJECT,Java Software Engineer (m/f/d) - Hanover,Code Compass 🧭,Consulting,Remote,"55,000€",Estimated,60,Hannover (Remote),No,"• Remote option
+• Modern Java stack potential","• Consulting company outside candidate constraints
+• German market focused location","It is a consulting role not based in Switzerland, making it less attractive given the candidate's consulting red flags.",N/A,1 week ago,2026-08-14T19:38:09.958Z
+60,REJECT,Software Engineer - Java,FanDuel,Scaleup,Hybrid,"55,000€",Estimated,70,"Edinburgh, Scotland, United Kingdom",Yes,"• Top gaming tech product scaleup
+• Java backend and cloud AWS stack","• Hybrid modality tied to Scotland/UK offices
+• No remote-from-Spain option","Brilliant product scaleup, but the hybrid requirement in Scotland violates remote criteria.",https://www.linkedin.com/jobs/view/4449566015/,4 days ago,2026-08-14T19:38:50.866Z
+60,MAYBE / REVIEW,Senior Backend Engineer,Stacksync - Integration Cloud,Startup,Hybrid,"110,000 CHF",Estimated,50,Lausanne (Hybrid),No,• Swiss startup product company,"• Hybrid in Lausanne
+• Senior title","A product startup in Switzerland, though it requires hybrid presence and a senior title.",N/A,1 month ago,2026-08-14T19:39:23.791Z
+60,MAYBE / REVIEW,Software Engineer (Mid-level) – Java,Materia,Startup,Remote,"40,000€",Estimated,70,Florence (Remote),No,"• Mid-level seniority matches candidate experience
+• Remote work option","• Location is Florence, Italy; remote scope unclear
+• Missing detailed JD","Mid-level Java role matching seniority, but location constraints and missing JD require further clarification regarding remote policy for non-residents.",N/A,1 week ago,2026-08-14T19:36:32.631Z
+60,MAYBE / REVIEW,Senior Software Engineer - AEM Assets,Adobe,Scaleup,Hybrid,"120,000 CHF",Estimated,40,"Basel, Basel, Switzerland",Yes,"• Top-tier product company in Switzerland
+• Great resume booster","• Requires 5+ years of experience, slightly above candidate profile
+• Focuses on AEM (Adobe Experience Manager) rather than modern general Spring Boot microservices","While Adobe is a dream product company in Switzerland, the stack leans heavily towards AEM CMS ecosystem rather than pure Java Spring Boot. Additionally, the seniority leans slightly high for 3.5 years of experience.",https://www.linkedin.com/jobs/view/4443268654/,2 weeks ago,2026-08-14T19:42:00.611Z
+60,MAYBE / REVIEW,Member of Technical Staff (Backend & Infrastructure),Jua,Startup,Hybrid,"95,000 CHF",Estimated,60,Zurich (Hybrid),No,"• Swiss startup company
+• Backend focus","• Hybrid in Zurich without full JD details
+• Infrastructure focus might overlap with Sysadmin/DevOps tasks","Interesting Swiss startup, but lacks a complete job description to verify stack compatibility.",N/A,2 weeks ago,2026-08-14T19:40:28.553Z
+60,MAYBE / REVIEW,"Software Engineer, Retrieval",Capacity,Startup,Remote,"87,500 CHF",Real,50,Switzerland,Yes,"• Remote in Switzerland
+• Mentions Scala and Java experience in backend","• Heavy focus on Python, PyTorch, AI retrieval, and machine learning infrastructure","Remote Swiss AI startup that mentions Java, but leans heavily towards Python and ML pipelines.",https://www.linkedin.com/jobs/view/4446119501/,2 weeks ago,2026-08-14T19:40:04.766Z
+60,MAYBE / REVIEW,Document AI Backend Engineer,GoCalma,Startup,Hybrid,"90,000 CHF",Estimated,65,Zug (Hybrid),No,"• Swiss startup in Zug
+• Backend engineering role","• Hybrid in Zug
+• Missing detailed JD to verify exact backend tech stack","A Swiss startup backend role, but lacks full stack details to confirm Java usage.",N/A,2 weeks ago,2026-08-14T19:41:26.711Z
+60,MAYBE / REVIEW,Java Developer,Haystack,Startup,Remote,"50,000€",Estimated,65,London (Remote),No,"• Product/startup environment
+• Remote option","• London remote restriction
+• Missing detailed JD","Potentially good role, but tied to London remote market.",N/A,6 hours ago,2026-08-14T19:37:29.329Z
+55,REJECT,Software Engineer,Pod,Scaleup,Remote,"70,000€",Real,80,United Kingdom,Yes,• Great salary range (£50k-70k),"• Primary backend language required is Go
+• Must have legal right to work in the UK","Although remote and well-paid, the primary tech stack is Go and requires UK work authorization.",https://www.linkedin.com/jobs/view/4453102463/,2 days ago,2026-08-14T19:37:13.960Z
+55,REJECT,"Software Engineer, Integrations",Oneleet,Startup,Remote,"50,000€",Estimated,70,Amsterdam (Remote),No,• Remote startup,"• Amsterdam location restriction
+• No detailed tech stack provided in brief",Restricted to Amsterdam region and lacks clear Java confirmation.,N/A,1 month ago,2026-08-14T19:37:29.329Z
+55,REJECT,Senior Java Software Engineer,N47,Consulting,Hybrid,"95,000 CHF",Estimated,60,"Zurich, Zurich, Switzerland",Yes,"• Spring Boot, Microservices, Kafka, AWS stack
+• Swiss location","• Consulting/Agency background
+• Senior requirement","The stack aligns well, but the company operates as a digital solutions provider/consultancy and requires senior experience.",https://www.linkedin.com/jobs/view/4441504321/,3 weeks ago,2026-08-14T19:41:04.191Z
+55,REJECT,Member Of Technical Staff,Benetics AI,Startup,On-site,"90,000 CHF",Estimated,60,Zurich (On-site),No,• AI startup in Zurich,"• On-site requirement in Zurich without relocation package details
+• Missing JD details","Interesting AI startup, but the on-site requirement in Zurich without explicit relocation support makes it less attractive.",N/A,3 days ago,2026-08-14T19:41:26.711Z
+55,REJECT,Senior Software Engineer (Java) - Remediation Agent,Sonar,Scaleup,On-site,"120,000 CHF",Estimated,55,Geneva (On-site),No,• Java product company in Geneva,"• Senior role
+• Strict on-site presence required","Although it features Java at a product company, the senior level and strict on-site requirement are misaligned.",N/A,1 month ago,2026-08-14T19:41:26.711Z
+55,REJECT,Software Engineer - ThousandEyes,Cisco,Scaleup,,"95,000 CHF",Estimated,60,Tartegnin,No,• Located in Switzerland,"• Missing full description
+• Cisco is a massive enterprise rather than an agile product company matching desired scope","Without a full job description and given the large corporate nature of Cisco, it is a low priority.",N/A,2 days ago,2026-08-14T19:40:28.552Z
+55,MAYBE / REVIEW,Senior Backend Developer,BLP,Scaleup,Remote,"120,000 CHF",Estimated,45,"Zurich, Zurich, Switzerland",Yes,• Successful Swiss AI SaaS scaleup with remote options,"• Tech stack is primarily Golang and Python, not Java
+• Senior title requires 5+ years","Exciting Swiss scaleup, but the stack uses Golang and Python rather than Java, and asks for 5+ years experience.",https://www.linkedin.com/jobs/view/4414469927/,3 months ago,2026-08-14T19:40:26.237Z
+55,REJECT,"Senior Backend Engineer (London, Barcelona, Madrid)",Sparta,Startup,Hybrid,"50,000€",Estimated,65,Madrid (Hybrid),No,• Office hubs in Barcelona/Madrid,• Hybrid requirement instead of 100% remote,Requires a hybrid setup in Madrid/Barcelona rather than 100% remote.,N/A,1 week ago,2026-08-14T19:39:10.069Z
+55,REJECT,Java Spring Boot Software Engineer (all genders),adesso Schweiz AG,Consulting,Hybrid,"105,000 CHF",Estimated,60,Zurich (Hybrid),No,"• Java Spring Boot stack matches
+• Swiss market salary","• Adesso is a large IT consultancy/system integrator
+• Hybrid in Zurich with German language needs typical","Although it uses Java and Spring Boot, Adesso is a consultancy with hybrid/onsite requirements in Switzerland.",N/A,2 weeks ago,2026-08-14T19:39:23.791Z
+50,REJECT,Software Engineer (gn),Oerlikon,SME,,"85,000 CHF",Estimated,60,Wohlen,No,• Swiss industrial company,"• Traditional engineering enterprise rather than modern tech product company
+• Missing JD details",Traditional Swiss industrial firm without a clear modern Java product software scope.,N/A,1 month ago,2026-08-14T19:41:26.711Z
+50,REJECT,Software Engineer Java (all genders),adesso Schweiz AG,Consulting,Hybrid,"90,000 CHF",Estimated,60,"Bern, Berne, Switzerland",Yes,• Java Spring Boot,"• adesso is an IT consultancy
+• Hybrid in Bern",Consultancy model makes this a rejection based on candidate preferences.,https://www.linkedin.com/jobs/view/4182014455/,Reposted 2 weeks ago,2026-08-14T19:41:35.844Z
+50,REJECT,Software Integration Engineer (m/w/d),Körber,SME,On-site,"90,000 CHF",Estimated,60,"Grabs, St Gallen, Switzerland",Yes,"• Java backend components
+• Swiss location in Grabs","• Shopfloor integration / industrial automation focus
+• On-site requirement",Industrial automation integration role rather than cloud-native modern Java microservice product development.,https://www.linkedin.com/jobs/view/4413021690/,3 months ago,2026-08-14T19:41:48.181Z
+50,REJECT,Cloud-native Software Engineer,ti&m,Consulting,,"95,000 CHF",Estimated,60,Muri,No,• Cloud-native and modern stack,"• ti&m is a Swiss IT consultancy/agency
+• Missing full job description","ti&m is a consulting firm, which is a red flag per candidate criteria.",N/A,1 year ago,2026-08-14T19:41:26.711Z
+50,MAYBE / REVIEW,"Software Engineer III, Search Quality",Google,Scaleup,On-site,"140,000 CHF",Estimated,30,Zurich (On-site),No,• Top-tier tech product company in Zurich,"• Strictly on-site in Zurich
+• Extremely rigorous interview process (LeetCode/System design heavy)","Prestigious product company in Zurich, but strictly on-site and exceptionally difficult interview process.",N/A,1 day ago,2026-08-14T19:41:26.711Z
+50,REJECT,Staff Software Engineer (Java),Sonar,Scaleup,On-site,"130,000 CHF",Estimated,45,"Geneva, Geneva, Switzerland",Yes,"• Java clean code focus
+• Swiss hub in Geneva","• Staff Software Engineer role requiring 8+ years experience
+• Strict on-site anchor days (Mandatory physical presence)",The staff-level seniority and strict on-site requirements do not fit the candidate's profile and preferences.,https://www.linkedin.com/jobs/view/4453320668/,2 days ago,2026-08-14T19:41:11.802Z
+50,REJECT,Senior Software Engineer - Clearing,Alpaca,Scaleup,Remote,"110,000 CHF",Estimated,55,Switzerland,Yes,• Remote-friendly scaleup,"• Primary tech stack is Go, not Java
+• Requires 5+ years of experience","While remote and at a product scaleup, the tech stack is Go-based instead of Java/Spring Boot.",https://www.linkedin.com/jobs/view/4435389238/,2 months ago,2026-08-14T19:40:58.116Z
+50,REJECT,Software Integration Engineer (m/w/d),Körber Pharma,SME,,"90,000 CHF",Estimated,60,Grabs,No,• Swiss location,"• Integration/Shopfloor focus rather than core product software engineering
+• Missing JD details",Integration and industrial systems focus is less aligned with modern cloud microservice Java engineering.,N/A,1 week ago,2026-08-14T19:41:26.711Z
+50,MAYBE / REVIEW,Backend Engineer (based in Dublin OR Madrid),Fresco,Startup,Hybrid,"42,000€",Estimated,60,Madrid (Hybrid),No,• Based in Madrid with flexible option,"• Detailed job description missing
+• Hybrid modality conflicts with remote preference","The role is located in Madrid with hybrid modality, lacking a full JD to verify the exact stack.",N/A,3 months ago,2026-08-14T19:39:10.069Z
+50,REJECT,Software Engineer Java (all genders),adesso Schweiz AG,Consulting,Hybrid,"90,000 CHF",Estimated,60,"Zurich, Zurich, Switzerland",Yes,• Java Spring Boot mentioned,"• Consulting company (adesso is an IT consultancy)
+• Mentions Angular/React and JEE/Hibernate which violates stack preferences
+• Hybrid in Zurich","Adesso is a consultancy, and the role touches legacy tech like JEE and frontend frameworks like Angular/React.",https://www.linkedin.com/jobs/view/4182015502/,Reposted 1 week ago,2026-08-14T19:40:47.843Z
+50,REJECT,Founding Software Engineer,The Flex,Startup,Remote,"45,000 €",Estimated,60,Switzerland,Yes,"• Remote-first startup
+• High ownership and impact","• Tech stack is Python, FastAPI, React, TypeScript, Supabase (completely misaligned with Java/Spring Boot)
+• Requires frontend frameworks (React) which candidate does not know","Despite being remote and a startup, the tech stack is Python/React/TypeScript, which violates the candidate's core stack preferences.",https://www.linkedin.com/jobs/view/4429177199/,2 months ago,2026-08-14T19:40:29.973Z
+50,REJECT,Senior Backend Engineer,kaiko.ai,Startup,Hybrid,"115,000 CHF",Estimated,50,"Zurich, Switzerland (Hybrid)",No,• Swiss startup,"• Hybrid in Zurich
+• Senior title requirement",Senior hybrid role in Zurich without explicit Java stack alignment.,N/A,3 weeks ago,2026-08-14T19:40:28.552Z
+50,REJECT,Staff Backend Engineer (Remote),Nango,Startup,Remote,$180K/yr,Real,30,Switzerland,No,"• High compensation
+• Remote setup in Switzerland",• Staff level requires senior architectural leadership experience,"Great remote Swiss startup opportunity, but the Staff tier is too advanced for 3.5 years of experience.",https://www.linkedin.com/jobs/view/4424416564/,2 months ago,2026-08-14T19:39:25.055Z
+50,REJECT,Software Engineer - Back-End (Storage),Proton,Scaleup,Hybrid,"120,000 CHF",Estimated,40,"Geneva, Geneva, Switzerland",Yes,• Proton is a top privacy-focused product company in Switzerland,"• Tech stack requires C++, Go, Rust, or PHP, not Java
+• Office-first / hybrid in Geneva","While Proton is a dream product company in Switzerland, the backend stack requires C++, Go, Rust, or PHP instead of Java.",https://www.linkedin.com/jobs/view/4427964256/,Reposted 2 days ago,2026-08-14T19:39:40.901Z
+50,REJECT,Sr. Backend Developer (Java Spring Boot),EVOlVE.inc,Consulting,Remote,"42,000€",Estimated,65,Portugal (Remote),No,"• Spring Boot stack
+• Remote Portugal","• Consultancy nature
+• Old posting date","Consulting position in Portugal, falling short of preferred product companies.",N/A,7 months ago,2026-08-14T19:38:43.006Z
+50,REJECT,JAVA Developer,Aspartus,Consulting,,"45,000€",Estimated,60,Warsaw,No,• Java focus,"• Consulting agency
+• Unclear modality and old posting date",Consulting profile with old posting and unclear remote terms.,N/A,11 months ago,2026-08-14T19:38:43.006Z
+50,REJECT,Java Developer,Playtech,Scaleup,Remote,"42,000€",Estimated,70,"Kyiv, Ukraine (Remote)",No,• Product tech company,"• Location is Kyiv, Ukraine
+• Geopolitical and relocation mismatch",Location constraint does not match candidate's preferences for Spain remote or Switzerland.,N/A,2 days ago,2026-08-14T19:36:32.631Z
+50,REJECT,Backend Software Engineer - AI Finance Agent,BJAK,Scaleup,Remote,"42,000€",Estimated,75,Poland,Yes,• Fintech product company,"• Strict requirement to be based in Poland
+• Does not align with Spain or Switzerland location rules",Role is fully remote but strictly restricted to candidates based in Poland.,https://www.linkedin.com/jobs/view/4452379027/,2 days ago,2026-08-14T19:37:09.510Z
+50,REJECT,Software Engineer II,New Relic,Scaleup,,"55,000€",Estimated,85,Barcelona,No,• Top tier product tech company,"• Located in Barcelona with unspecified remote policy
+• Highly competitive interview process","Great company, but lacks remote confirmation and likely requires physical presence in Barcelona.",N/A,4 days ago,2026-08-14T19:37:29.329Z
+50,REJECT,Backend Software Engineer - AI Finance Agent,BJAK,Scaleup,Remote,"45,000€",Estimated,75,Sweden,Yes,• Fintech product company,• Strictly requires candidate to be based in Sweden,Role is remote but restricted to candidates already based in Sweden.,https://www.linkedin.com/jobs/view/4452374485/,2 days ago,2026-08-14T19:38:02.097Z
+50,REJECT,Full Stack Software Engineer- Java,Vonage,Scaleup,Remote,"48,000€",Estimated,75,Spain (Remote),No,"• Product tech company
+• Remote in Spain",• Full stack requirement (mentions frontend aspects),"While a great product company in Spain, it's a Full Stack role requiring frontend knowledge, which candidate lacks.",N/A,2 weeks ago,2026-08-14T19:38:09.957Z
+50,REJECT,Java Software Engineer (Mid-level) - Slovakia,Polystar | Elisa Industriq,Scaleup,Remote,"42,000€",Estimated,70,Slovakia (Remote),No,• Mid-level Java role,"• Restricted to Slovakia location
+• Missing detailed JD",Location constraint for Slovakia violates candidate's geographic preferences.,N/A,9 hours ago,2026-08-14T19:37:29.329Z
+50,REJECT,Java Software Engineer Health (all genders),adesso Schweiz AG,Consulting,Hybrid,"90,000 CHF",Estimated,60,Zurich (Hybrid),No,• Java development in Switzerland,"• Adesso is a consulting company
+• Hybrid setup",Consultancy company type violates the candidate's preferences.,N/A,1 week ago,2026-08-14T19:41:26.711Z
+50,REJECT,Software Engineer III- Back End- Java- Mid Level-  JPM Personal Investing- Madrid,JPMorganChase,Scaleup,On-site,"50,000€",Estimated,75,Madrid (On-site),No,"• Mid-level Java engineering position
+• Strong financial tech brand","• On-site requirement in Madrid
+• Strict corporate presence",The on-site Madrid requirement violates the 100% remote preference.,N/A,1 day ago,2026-08-14T19:39:10.069Z
+50,REJECT,Senior Software Engineer (Backend),Super,Scaleup,Hybrid,"50,000€",Estimated,50,Madrid (Hybrid),No,• Product company,"• Hybrid in Madrid
+• Senior title requires more years of experience",Requires hybrid attendance in Madrid and a senior level above the candidate's current 3.5 years mark.,N/A,6 days ago,2026-08-14T19:39:15.389Z
+50,REJECT,Software Engineer - AEM Assets,Adobe,Scaleup,,"120,000 CHF",Estimated,40,Basel,No,• Swiss location,"• AEM (Adobe Experience Manager) involves legacy Java/OSGi tech stack
+• Unclear modality",AEM development diverges from modern Spring Boot microservices and requires specific enterprise CMS knowledge.,N/A,2 weeks ago,2026-08-14T19:39:23.791Z
+50,REJECT,Staff Backend Engineer,Nango,Startup,Remote,"150,000 CHF",Real,30,Switzerland (Remote),No,"• Remote in Switzerland
+• High salary",• Staff level requires senior leadership experience beyond candidate profile,"The remote Swiss setup is great, but the Staff title demands more senior-level tenure.",N/A,2 months ago,2026-08-14T19:39:23.791Z
+50,MAYBE / REVIEW,Backend Engineer (m/f/d),Mercanis,Startup,,"45,000€",Estimated,60,Greater Madrid Metropolitan Area,No,• Product startup,"• Missing job description
+• Unclear modality and exact location rules","Interesting startup profile, but missing key details regarding exact remote location allowances.",N/A,1 month ago,2026-08-14T19:39:13.162Z
+50,REJECT,Staff Backend Engineer - Alerting | Spain | Remote,Grafana Labs,Scaleup,Remote,"60,000€",Estimated,30,Madrid (Remote),No,"• Top product scaleup
+• Fully remote in Spain","• Staff level requires significantly more than 3.5 years of experience
+• Management and high architecture expectations","While Grafana is a great product company, a Staff Engineer role is too senior for a candidate with 3.5 years of experience.",N/A,2 weeks ago,2026-08-14T19:39:13.162Z
+50,REJECT,Software Engineer - Backend Services - MPG - Fully remote from the UK or,Climax Studios,Startup,,"48,000€",Estimated,60,Greater London,No,• Product/Studio environment,"• Modality and full details unclear
+• UK residency restriction implied",Location and modality constraints do not clearly match remote from Spain or Switzerland options.,N/A,2 months ago,2026-08-14T19:38:09.958Z
+50,REJECT,Senior Java Software Engineer,Morson Talent,Consulting,Remote,"55,000€",Estimated,60,United Kingdom (Remote),No,• Remote UK option,"• Recruitment/consulting agency listing
+• Senior expectation","Agency/consultancy setup targeting UK remote, not aligned with product company preference.",N/A,3 days ago,2026-08-14T19:38:43.006Z
+45,REJECT,Java Developer,Marfeel,Startup,,"38,000€",Estimated,65,Barcelona,No,• Product startup in Barcelona,"• Modality is unspecified, likely onsite in Barcelona
+• Salary expectations might be low","Likely onsite in Barcelona without confirmed remote option, and salary is under target.",N/A,1 month ago,2026-08-14T19:37:29.329Z
+45,REJECT,"Senior Software Engineer, Consensus",Anza,Startup,Remote,"90,000 CHF",Estimated,50,Zurich (Remote),No,• Remote startup,"• Senior title
+• Blockchain/Crypto tech stack which does not use Java/Spring Boot",Stack and seniority do not match the candidate's profile.,N/A,4 months ago,2026-08-14T19:41:26.711Z
+45,REJECT,"Tech Lead, Java – Core Banking",Sygnum Bank,Scaleup,On-site,"130,000 CHF",Estimated,40,"Zurich, Switzerland (On-site)",No,"• Swiss crypto bank product environment
+• Java core banking","• Tech Lead position (candidate explicitly avoids managerial/team lead roles)
+• On-site requirement","This is a Tech Lead role, which conflicts with the candidate's desire to remain a hands-on developer.",N/A,2 weeks ago,2026-08-14T19:41:26.711Z
+45,REJECT,Desarrollador/a Java (Spring Boot),Alvatross,Consulting,Remote,"38,000€",Estimated,85,Spain,Yes,"• 100% remote from Spain
+• Spring Boot and Microservices stack","• Spanish consulting company (low salary risk)
+• Requires 5+ years experience","It is a Spanish consulting firm with a salary expectation likely below 40k€, which triggers multiple candidate red flags.",https://www.linkedin.com/jobs/view/4450483911/,1 day ago,2026-08-14T19:38:20.412Z
+45,REJECT,Software Engineer - E-Commerce (Remote),Quik Hire Staffing,Consulting,Remote,"60,000€",Estimated,70,United Kingdom,Yes,"• Global remote positioning
+• High compensation range","• Staffing agency / consultancy intermediary
+• Vagueness in job description stack",Recruitment agency listing rather than a direct product company role.,https://www.linkedin.com/jobs/view/4453523293/,14 hours ago,2026-08-14T19:38:54.923Z
+45,REJECT,Backend Engineer,Marosa,SME,Hybrid,"38,000€",Estimated,75,Vigo (Hybrid),No,• Backend role,"• Hybrid modality in Vigo, Spain
+• Below optimal salary",Hybrid requirement in Spain and lower salary bracket disqualify this position.,N/A,3 weeks ago,2026-08-14T19:39:10.069Z
+45,REJECT,Senior Java Software Engineer,Affinity,Consulting,Remote,"40,000€",Estimated,70,Portugal (Remote),No,• Remote in Portugal,"• Consultancy
+• Senior requirements","Consultancy role based in Portugal, does not fit product company or Spanish/Swiss location preference.",N/A,6 hours ago,2026-08-14T19:38:43.006Z
+45,REJECT,Software Engineer ERP Integrations,BLP,Scaleup,On-site,"85,000 CHF",Estimated,55,"Zurich, Zurich, Switzerland",Yes,• Fast-growing SaaS scaleup,"• Requires proficiency in German (mandatory for DACH clients)
+• On-site requirement in Zurich
+• Uses Go alongside Java",German language requirement and on-site nature in Zurich make this a poor fit.,https://www.linkedin.com/jobs/view/4317478756/,10 months ago,2026-08-14T19:41:22.388Z
+45,REJECT,"Software Engineer, Platform - Basel, Switzerland",Speechify,Scaleup,Remote,"95,000 CHF",Real,50,"Basel, Basel, Switzerland",Yes,• Remote setup associated with Switzerland,• Requires TypeScript/Node.js backend stack instead of Java,"Speechify is an innovative product company, but the backend stack is TypeScript/Node.js rather than Java.",https://www.linkedin.com/jobs/view/4446507773/,1 month ago,2026-08-14T19:39:59.817Z
+45,REJECT,Software Engineer,NielsenIQ,Scaleup,Hybrid,"100,000 CHF",Real,50,"Kriegstetten, Solothurn, Switzerland",Yes,• Global consumer intelligence product company in Switzerland,"• Primary development in modern C++ and Python, not Java",The role requires C++ and Python development rather than Java Spring Boot.,https://www.linkedin.com/jobs/view/4452719353/,2 days ago,2026-08-14T19:40:11.626Z
+45,REJECT,"Backend Engineer, 80-100% (f/m/x)",comparis.ch AG,Scaleup,On-site,"115,000 CHF",Estimated,50,"Zurich, Zurich, Switzerland",Yes,• Leading comparison platform in Switzerland,"• Tech stack is primarily .NET Core / C#, not Java
+• On-site in Zurich",The role requires C# and .NET rather than the candidate's Java Spring Boot stack.,https://www.linkedin.com/jobs/view/4403747048/,4 months ago,2026-08-14T19:39:34.560Z
+45,REJECT,Senior Cloud Engineer,Voliro,Startup,On-site,"90,000 CHF",Estimated,55,Zurich (On-site),No,• Swiss startup company,"• 100% on-site requirement
+• DevOps/Cloud focused rather than core Java software engineering
+• Senior requirement",The role is purely on-site and leans towards cloud/DevOps engineering rather than hands-on Java development.,N/A,2 days ago,2026-08-14T19:40:28.552Z
+45,REJECT,Backend Software Engineer - SDK,Digital Asset,Scaleup,,"100,000 CHF",Estimated,50,"Zurich, Zurich, Switzerland",Yes,"• Swiss office location (Zurich)
+• Backend engineering focus","• Primary codebase is Scala, not Java/Spring Boot
+• Requires reactive streams like Akka/Pekko and niche blockchain domain","The role requires Scala rather than modern Java/Spring Boot, violating the desired tech stack.",https://www.linkedin.com/jobs/view/4449807815/,3 days ago,2026-08-14T19:40:41.744Z
+45,REJECT,Software Engineer (Java),Software Mind,Consulting,Remote,"42,000€",Estimated,65,Cracow (Remote),No,• Java remote role,"• Consulting company
+• Located in Poland",Consulting firm not meeting the criteria for non-Spanish high-paying consultancies and located in Poland.,N/A,4 days ago,2026-08-14T19:37:29.328Z
+45,REJECT,"Programador/a Backend Java, Spring Boot, Postgr con Inglés",HeyClue,Startup,Remote,"35,000€",Estimated,65,Madrid (Remote),No,• Java and Spring Boot stack,"• Spanish startup, likely offering salaries below the 40k-45k threshold",Spanish startup which typically offers lower compensation packages than desired.,N/A,2 weeks ago,2026-08-14T19:38:09.957Z
+45,REJECT,Software Engineer - FinTech (Remote),Quik Hire Staffing,Consulting,Remote,"45,000€",Estimated,75,United Arab Emirates (Remote),No,• FinTech domain,"• Staffing/Consulting agency
+• Location UAE remote, which is outside target regions","This is a staffing agency role located in UAE, which violates the consulting red flag and geographic preferences.",N/A,12 hours ago,2026-08-14T19:36:32.631Z
+45,REJECT,Software Engineer -  Applications,DeepJudge,Startup,On-site,"120,000 CHF",Estimated,50,Zurich (On-site),No,• Swiss AI startup,"• Strict on-site presence in Zurich
+• Missing exact stack details",On-site requirement in Zurich conflicts with remote preferences.,N/A,4 months ago,2026-08-14T19:40:28.552Z
+45,REJECT,Java Software Engineer 100%,Fincons Group,Consulting,Hybrid,"95,000 CHF",Estimated,65,"Bern, Berne, Switzerland",Yes,• Java development in Switzerland,"• Fincons is an IT consulting firm
+• Requires C1/C2 German language
+• Web-UI/frontend tasks mentioned",IT consulting position in Switzerland requiring strong German skills and frontend UI integration tasks.,https://www.linkedin.com/jobs/view/4422927520/,2 months ago,2026-08-14T19:39:57.361Z
+40,REJECT,Java Developer,Coody,Startup,,"42,000€",Estimated,65,Stockholm,No,• Java role,"• Stockholm location without remote confirmation
+• No JD provided",Incomplete information and location mismatch.,N/A,2 months ago,2026-08-14T19:38:09.957Z
+40,REJECT,Graduate Software Engineer,Sonar,Scaleup,On-site,"95,000 CHF",Estimated,70,Geneva (On-site),No,• Renowned product company for code quality,"• Graduate/Junior level is a step down for someone with 3.5 years experience
+• On-site in Geneva",A graduate position is too junior for a Semisenior engineer with 3.5 years of experience.,N/A,1 month ago,2026-08-14T19:40:28.552Z
+40,REJECT,Software Engineer,Proton,Scaleup,On-site,"125,000 CHF",Estimated,30,"Zurich, Zurich, Switzerland",Yes,• Top product company in Switzerland,"• Requires C++ and Chromium browser engineering experience
+• On-site requirement","Browser engineering role focusing on C++ and Chromium, completely outside the Java backend stack.",https://www.linkedin.com/jobs/view/4444579888/,2 weeks ago,2026-08-14T19:40:07.122Z
+40,REJECT,Intermediate Java Software Engineer,Version 1,Consulting,On-site,"42,000€",Estimated,70,"Belfast, Northern Ireland, United Kingdom",Yes,• Intermediate level matches experience,"• On-site modality in Belfast
+• IT consultancy company profile","It is an on-site consultancy role in Northern Ireland, directly contradicting remote and company-type preferences.",https://www.linkedin.com/jobs/view/4170834760/,Reposted 2 weeks ago,2026-08-14T19:38:35.185Z
+40,REJECT,Senior Java Software Engineer 80 - 100%,Fincons Group,Consulting,,"110,000 CHF",Estimated,50,Bern,No,• Java experience in Switzerland,"• IT consultancy firm
+• Senior level requirement","Consulting firm in Switzerland looking for a senior profile, violating multiple candidate constraints.",N/A,1 month ago,2026-08-14T19:40:28.552Z
+40,REJECT,Ingeniero/a de software (Java) - 100% remote,Plexus Tech,Consulting,Remote,"36,000€",Estimated,80,Spain (Remote),No,• Remote from Spain,"• Spanish IT consultancy
+• Salary below expectations",Spanish consulting firm with low salary range.,N/A,4 days ago,2026-08-14T19:38:43.006Z
+40,REJECT,"Java Mid/Senior Developer - 100% Remoto, España",UST España & Latam,Consulting,Remote,"38,000€",Estimated,80,Spain (Remote),No,"• Mid/Senior level matches experience
+• Remote in Spain","• Consultancy firm based in Spain
+• Salary likely below 40k€","IT consultancy in Spain with sub-optimal salary range, matching candidate red flags.",N/A,1 day ago,2026-08-14T19:38:43.006Z
+40,REJECT,Middle Java Software Engineer (On-Call),SoftServe,Consulting,Remote,"40,000€",Estimated,65,Poland,Yes,• Middle Java position,"• IT outsourcing/consulting company
+• Mandatory 24/7 on-call support rotation","Outsourcing consultancy with on-call support burden, violating consulting and lifestyle preferences.",https://www.linkedin.com/jobs/view/4445135450/,2 weeks ago,2026-08-14T19:37:46.257Z
+40,REJECT,Senior Java Software Engineer,Morson Edge,Consulting,Remote,"55,000€",Estimated,75,United Kingdom (Remote),No,• Good salary,"• Recruitment/consulting agency
+• UK residency restriction","Agency/consulting role restricted to the UK, conflicting with location rules.",N/A,1 day ago,2026-08-14T19:37:29.329Z
+40,REJECT,Senior Java Developer,emagine,Consulting,Remote,"45,000€",Estimated,70,Portugal (Remote),No,• Remote setup,"• Consulting/contracting agency
+• Portugal location restriction",Consultancy and location mismatch.,N/A,1 day ago,2026-08-14T19:38:09.957Z
+40,REJECT,Java Developer,Ryanair - Europe's Favourite Airline,Scaleup,,"42,000€",Estimated,65,Lisboa,No,• Major European brand,"• Location is Lisbon without remote indication
+• No detailed JD provided","Modality is unclear and located in Portugal without clear remote status, which violates candidate constraints.",N/A,2 months ago,2026-08-14T19:36:32.631Z
+40,REJECT,Backend Developer,Expleo Group,Consulting,Hybrid,"100,000 CHF",Estimated,60,"Bern, Berne, Switzerland",Yes,• Java and Spring Boot stack,"• Expleo is a consultancy
+• Requires German language (C1)
+• Hybrid in Bern","Consulting role in Switzerland requiring C1 German proficiency, which violates language and company type preferences.",https://www.linkedin.com/jobs/view/4404826697/,Reposted 6 days ago,2026-08-14T19:39:53.146Z
+40,REJECT,Senior Backend Engineer Java (80-100%),albedis,Consulting,Hybrid,"90,000 CHF",Estimated,50,"Lucerne, Switzerland (Hybrid)",No,• Java backend focus,"• Consulting/Agency company type
+• Senior title requirement
+• Hybrid requirement in Lucerne","This role is with a consulting firm and targets senior profiles, which goes against the candidate's preferences.",N/A,1 week ago,2026-08-14T19:40:28.552Z
+40,REJECT,Développeur Java,CLEEVEN,Consulting,On-site,"85,000 CHF",Estimated,50,"Basel, Switzerland (On-site)",No,• Java development in Switzerland,"• Cleeven is a consulting firm / consultancy
+• On-site in Basel",Consultancy company type and on-site requirement make this a rejection.,N/A,1 week ago,2026-08-14T19:41:26.711Z
+40,REJECT,Staff Software Engineer,Ripple,Scaleup,Hybrid,"130,000 CHF",Estimated,40,Geneva (Hybrid),No,• Global crypto/tech scaleup in Switzerland,"• Staff level requires significantly more than 3.5 years experience
+• Hybrid model in Geneva",Staff Software Engineer is far too senior for a candidate with 3.5 years of experience.,N/A,2 weeks ago,2026-08-14T19:40:28.553Z
+40,REJECT,Senior Back end Developer,Cerved,SME,Hybrid,"60,000 €",Estimated,55,Morbio Inferiore (Hybrid),No,• Backend developer role,"• Senior requirement
+• Located in Morbio Inferiore (Italian-speaking Switzerland/border region)
+• Not a product company",Senior title and location constraints do not align well with preferences.,N/A,1 week ago,2026-08-14T19:41:26.711Z
+40,REJECT,Java Software Engineer (m/w/d),Rocken®,Consulting,,"90,000 CHF",Estimated,50,"Dietikon / Im Berg, Zurich, Switzerland",Yes,• Java/Spring backend,"• Recruitment/Consulting partner
+• Requires Angular (frontend)","Rocken is a recruitment and consulting intermediary, and the role requires full-stack development including Angular.",https://www.linkedin.com/jobs/view/4453576338/,4 hours ago,2026-08-14T19:41:05.718Z
+40,REJECT,Platform Engineer,Citadel Securities,Scaleup,On-site,"150,000 CHF",Estimated,40,"Zurich, Switzerland (On-site)",No,• High compensation potential in Zurich,"• Platform/Infrastructure role (pure DevOps/Sysadmin flavor)
+• Strictly on-site","This is a platform/infrastructure engineering role, which violates the preference against pure DevOps or Sysadmin positions.",N/A,3 weeks ago,2026-08-14T19:41:26.711Z
+40,REJECT,Backend Engineer,Sartiq,Startup,On-site,"95,000 CHF",Estimated,60,Lugano (On-site),No,• Swiss startup,"• On-site in Lugano
+• Missing clear stack details",Requires relocation and physical on-site presence in Lugano without a guaranteed remote setup.,N/A,2 weeks ago,2026-08-14T19:39:23.791Z
+40,REJECT,Backend Software Engineer(Junior oder Professional),Subsidia,Consulting,On-site,"90,000 CHF",Estimated,50,St Gallen (On-site),No,• Accepts junior/professional experience in Switzerland,"• On-site in St Gallen
+• Consultancy firm",Mandatory on-site presence in Switzerland for a consultancy conflicts with preferences.,N/A,2 months ago,2026-08-14T19:39:23.791Z
+40,REJECT,Backend Engineer (Java / Spring Boot),Randstad Digital España,Consulting,Hybrid,"38,000€",Estimated,80,Barcelona (Hybrid),No,• Spring Boot stack,"• Consultancy/Outsourcing arm
+• Hybrid in Barcelona",Consulting and hybrid constraints break the candidate's core rules.,N/A,2 days ago,2026-08-14T19:39:10.069Z
+40,REJECT,Programador/a Backend Java - Spring Boot - AWS,SOLTEL Group,Consulting,Remote,"32,000€",Estimated,70,Spain (Remote),No,"• Java, Spring Boot and AWS match stack
+• Remote","• Spanish IT consulting company
+• Below desired salary threshold","Although the tech stack matches, SOLTEL is a Spanish consultancy that typically pays below the candidate's expectations.",N/A,1 month ago,2026-08-14T19:39:10.069Z
+40,REJECT,Backend Developer Microservicios,knowmad mood,Consulting,Remote,"35,000€",Estimated,80,Madrid (Remote),No,• Remote modality in Spain,"• Spanish consultancy company
+• Below target salary",Matches remote preference but fails the Spanish consulting and salary criteria.,N/A,1 month ago,2026-08-14T19:38:43.006Z
+40,REJECT,"Analyst developer Java, Spring boot (100% remoto desde España)",UST,Consulting,Remote,"38,000€",Estimated,80,Madrid,No,• Spring Boot stack,"• Spanish consultancy branch
+• Low pay risk",Consulting company in Spain paying below target rates.,N/A,2 weeks ago,2026-08-14T19:38:43.006Z
+35,REJECT,Java/Spring Boot Backend Developer – Cassandra | 100% remoto,Qaracter - Beyond your Challenge,Consulting,Remote,"38,000€",Estimated,60,Spain,Yes,• Java and Spring Boot backend,"• Consulting firm based in Spain
+• Mentions frontend React requirements as a plus","Spanish consulting firm with salary below target, triggering multiple candidate red flags.",https://www.linkedin.com/jobs/view/4449879322/,2 days ago,2026-08-14T19:37:42.100Z
+35,REJECT,Java Developer (100% remoto),Capitole,Consulting,Remote,"38,000€",Estimated,60,Spain,Yes,"• Java 17/21, Spring Boot, Kafka stack","• It is a Spanish consulting company
+• Salary likely below target for Spanish consultancies","Consultancy based in Spain, which triggers multiple red flags regarding company type, origin, and expected salary.",https://www.linkedin.com/jobs/view/4448095701/,1 week ago,2026-08-14T19:37:16.304Z
+35,REJECT,"Java Software Engineer | Microservicios, Grafana o Prometheus | 100% Remoto",knowmad mood,Consulting,Remote,"35,000€",Estimated,60,Madrid (Remote),No,• Microservices stack,"• Spanish consulting firm
+• Below target salary","Another listing from the same Spanish consultancy, violating guidelines.",N/A,3 weeks ago,2026-08-14T19:38:09.957Z
+35,REJECT,"Java Backend Developer | Spring Boot, Kafka & Microservicios | Remoto",knowmad mood,Consulting,Remote,"35,000€",Estimated,60,Madrid (Remote),No,"• Spring Boot, Kafka stack","• Spanish consulting firm
+• Low salary",Consultancy based in Spain with lower salary expectations.,N/A,3 weeks ago,2026-08-14T19:38:09.957Z
+35,REJECT,Java Developer SpringBoot/Cassandra (100% remoto),UST,Consulting,Remote,"38,000€",Estimated,60,Madrid,No,• Java and Spring Boot,"• Global IT consultancy firm
+• Low salary tier for Spanish market",Consulting company violating the rule against Spanish/low-paying consultancies.,N/A,2 weeks ago,2026-08-14T19:38:09.957Z
+35,REJECT,Desarrollador Back-End,METRICA,Consulting,Remote,"32,000€",Estimated,80,Madrid (Remote),No,• Remote from Spain,"• Spanish consultancy
+• Low salary expectations","Consultancy based in Spain with lower salary scale, violating multiple core candidate constraints.",N/A,2 months ago,2026-08-14T19:38:43.006Z
+35,REJECT,Backend Developer (H/F),fortil,Consulting,On-site,"100,000 CHF",Estimated,50,Lausanne Metropolitan Area (On-site),No,• Swiss location,"• Consultancy
+• On-site in Lausanne
+• French language requirements likely",On-site consulting role in Lausanne that does not align with remote or modern product company preferences.,N/A,2 weeks ago,2026-08-14T19:39:23.791Z
+35,REJECT,Desarrollador/a Backend Java – Spring Boot,act digital EMEA - Alter Solutions,Consulting,Hybrid,"35,000€",Estimated,60,Greater Madrid Metropolitan Area (Hybrid),No,• Java Spring Boot stack,"• Consultancy
+• Hybrid modality in Madrid
+• Low salary","Consulting company in Madrid with a hybrid format, failing multiple relocation and salary criteria.",N/A,3 weeks ago,2026-08-14T19:39:10.069Z
+35,REJECT,Desarrollador/a Java,Ecosistemas,Consulting,Hybrid,"35,000€",Estimated,80,Madrid (Hybrid),No,• Java tech stack,"• Hybrid modality in Madrid
+• Consultancy company",Hybrid consultancy model in Madrid goes against remote preferences.,N/A,5 hours ago,2026-08-14T19:39:10.069Z
+35,REJECT,Java Developer,Sopra Steria,Consulting,On-site,"85,000 CHF",Estimated,50,Urdorf (On-site),No,• Java developer position,"• Sopra Steria is a major IT consultancy
+• On-site requirement in Urdorf",Consultancy and on-site requirements violate core preferences.,N/A,1 week ago,2026-08-14T19:41:26.711Z
+35,REJECT,Java Software Engineer,Proxima Group,Consulting,Hybrid,"40,000€",Estimated,75,Milan (Hybrid),No,• Java stack,"• Hybrid in Milan
+• Consultancy",Hybrid role in Italy which violates remote or Switzerland relocation preferences.,N/A,1 week ago,2026-08-14T19:38:43.006Z
+30,REJECT,Developer,Leaf Agriculture,Startup,,"40,000€",Estimated,60,Job,No,,"• Vague title
+• No job description or location clarity",Insufficient information and vague title make this unsuitable for evaluation.,N/A,1 year ago,2026-08-14T19:37:29.329Z
+30,REJECT,Java Software Engineer,Ground Zero Labs,Startup,Hybrid,"35,000€",Estimated,80,Athens (Hybrid),No,• Java backend focus,"• Hybrid role in Athens, Greece
+• Does not match remote or Switzerland criteria","The role is hybrid in Athens, violating candidate's work modality preference.",N/A,10 hours ago,2026-08-14T19:36:32.631Z
+30,REJECT,Java + SpringBoot Developer,DISID,Consulting,Remote,"36,000€",Estimated,60,Spain,Yes,• Modern Java and Spring Boot,"• Spanish consulting firm (Plexus Tech group)
+• Senior requirement (6+ years experience)",Consultancy firm based in Spain with a 6+ years seniority requirement exceeding the candidate's profile.,https://www.linkedin.com/jobs/view/4448018116/,1 week ago,2026-08-14T19:37:19.809Z
+30,REJECT,Programador/a JAVA / Microservicios,METRICA,Consulting,Remote,"33,000€",Estimated,60,Madrid (Remote),No,• Java microservices,"• Spanish consultancy
+• Low salary","Spanish IT consultancy with low salary, hitting multiple red flags.",N/A,3 months ago,2026-08-14T19:38:09.957Z
+30,REJECT,Software Engineer  (Java),ARQ,Consulting,Hybrid,"50,000€",Estimated,70,London (Hybrid),No,• Java stack,"• Hybrid role in London
+• Consultancy nature",Hybrid modality in London violates remote preference.,N/A,4 days ago,2026-08-14T19:38:09.957Z
+30,REJECT,Programador Java/Open Api,Second Window,Consulting,Remote,"33,000€",Estimated,60,Madrid (Remote),No,• Java remote,"• Spanish IT consultancy
+• Low compensation",Consultancy based in Spain offering below-market salaries.,N/A,3 months ago,2026-08-14T19:38:09.957Z
+30,REJECT,Software Engineer (Mid/Senior),Mile Two,Consulting,Remote,"45,000 €",Estimated,40,"Fully, Valais, Switzerland",Yes,• Remote option,"• Requires US Security Clearance and DoD CAC (US-based defense contractor)
+• Minimum 7 years experience required (senior level)",The candidate does not meet the US security clearance requirements and the experience level is too high.,https://www.linkedin.com/jobs/view/4451026635/,6 days ago,2026-08-14T19:40:45.938Z
+30,REJECT,Backend Java Developer,Arktic,Consulting,Hybrid,"35,000€",Estimated,50,Madrid (Hybrid),No,• Java backend title matches core skills,"• Consulting firm in Spain
+• Hybrid modality
+• Low estimated salary below threshold",This is a consulting position in Spain with hybrid requirements and likely low local salary.,N/A,3 days ago,2026-08-14T19:39:10.069Z
+30,REJECT,Software Engineer,Luxoft,Consulting,Onsite,"90,000 CHF",Estimated,60,"Zurich, Switzerland",Yes,• Located in Switzerland,"• It is a consultancy company (red flag per preferences)
+• Tech stack is .NET/C# and Windows Server, completely misaligned with Java/Spring Boot",This role is a clear mismatch due to being a consultancy position focused entirely on .NET technologies instead of Java. It violates multiple candidate preferences.,https://www.linkedin.com/jobs/view/4452476113/,3 days ago,2026-08-14T19:42:13.257Z
+25,REJECT,Software Engineer - Java,Giacom,Scaleup,On-site,"45,000€",Estimated,70,Greater London (On-site),No,• Java backend,• On-site role in Greater London,On-site modality violates remote and relocation criteria.,N/A,1 month ago,2026-08-14T19:38:09.957Z
